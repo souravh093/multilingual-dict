@@ -1,0 +1,23 @@
+{
+  "name": "multilingual-dict",
+  "version": "1.0.0",
+  "description": "This is multilingual directory app like google translate",
+  "main": "index.js",
+  "scripts": {
+    "prisma:generate": "prisma generate",
+    "seed": "ts-node --transpile-only scripts/seed.ts",
+    "migrate": "ts-node --transpile-only scripts/migrate.ts",
+    "create-indexes": "ts-node --transpile-only scripts/create-indexes.ts",
+    "bench": "ts-node --transpile-only bench/queries.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "prisma": "^6.19.0"
+  }
+}
