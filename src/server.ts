@@ -1,5 +1,6 @@
 import http from "http";
 import { handleRequest } from "./router";
+import { setupIndexes } from './../scripts/create-indexes';
 
 export const createServer = () => {
   const server = http.createServer((req, res) => {
@@ -22,6 +23,8 @@ export async function startServer(port: number) {
   server.listen(port, () => {
     console.log(`Server listening on http://localhost:${port}`);
   });
+  
+  await setupIndexes(); // ✅ automatically run on startup
 
   const shutdown = async () => {
     console.log("Shutting down...");
