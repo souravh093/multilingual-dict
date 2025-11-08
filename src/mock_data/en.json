@@ -1,0 +1,44 @@
+[
+  {
+    "language": "en",
+    "text": "House",
+    "article": null,
+    "stem": "house",
+    "phonetics": "haʊs",
+    "definitions": [
+      {
+        "text": "A building for human habitation",
+        "synonyms": ["home", "residence"],
+        "examples": ["The house is big.", "I bought a new house last year."]
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Car",
+    "article": null,
+    "stem": "car",
+    "phonetics": "kɑːr",
+    "definitions": [
+      {
+        "text": "A road vehicle with an engine",
+        "synonyms": ["automobile", "vehicle"],
+        "examples": ["My car is red.", "She drives a new car."]
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Book",
+    "article": null,
+    "stem": "book",
+    "phonetics": "bʊk",
+    "definitions": [
+      {
+        "text": "A set of written pages bound together",
+        "synonyms": ["volume", "publication"],
+        "examples": ["I am reading a book.", "Books are on the shelf."]
+      }
+    ]
+  }
+]

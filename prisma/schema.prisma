@@ -40,96 +40,96 @@ model Word {
   metadata     Metadata?     @relation(name: "WordMetadata", fields: [metadataId], references: [id])
   metadataId   String?       @unique @db.ObjectId
 
-  createdAt    DateTime      @default(now())
-  updatedAt    DateTime      @updatedAt
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 model BaseWord {
-  id                  String            @id @default(auto()) @map("_id") @db.ObjectId
-  text                String
-  language            Language
-  article             String?
-  stem                String?
-  prefix              String?
-  phonetics           String?
-  wordType            WordType?
-  languageSpecific    LanguageSpecific? @relation(name: "BaseWordLanguageSpecific", fields: [languageSpecificId], references: [id])
-  languageSpecificId  String?           @db.ObjectId
-  word                Word?
-  createdAt           DateTime          @default(now())
+  id                 String            @id @default(auto()) @map("_id") @db.ObjectId
+  text               String
+  article            String?
+  stem               String?
+  prefix             String?
+  phonetics          String?
+  word               Word?
+  language           Language
+  wordType           WordType?
+  languageSpecific   LanguageSpecific? @relation(name: "BaseWordLanguageSpecific", fields: [languageSpecificId], references: [id])
+  languageSpecificId String?           @db.ObjectId
+  createdAt          DateTime          @default(now())
 }
 
 model LanguageSpecific {
-  id          String       @id @default(auto()) @map("_id") @db.ObjectId
-  usageNotes  String?
-  baseWords   BaseWord[]   @relation("BaseWordLanguageSpecific")
+  id           String        @id @default(auto()) @map("_id") @db.ObjectId
+  usageNotes   String?
+  baseWords    BaseWord[]    @relation("BaseWordLanguageSpecific")
   translations Translation[] @relation("TranslationLanguageSpecific")
 }
 
 model Definition {
-  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  id           String    @id @default(auto()) @map("_id") @db.ObjectId
   definitionId String?
   text         String
   synonyms     String[]
   examples     Example[]
-  word         Word     @relation(fields: [wordId], references: [id])
-  wordId       String   @db.ObjectId
-  createdAt    DateTime @default(now())
+  word         Word      @relation(fields: [wordId], references: [id])
+  wordId       String    @db.ObjectId
+  createdAt    DateTime  @default(now())
 }
 
 model Translation {
-  id                 String             @id @default(auto()) @map("_id") @db.ObjectId
+  id                 String            @id @default(auto()) @map("_id") @db.ObjectId
   language           Language
   text               String
   article            String?
   stem               String?
   prefix             String?
   phonetics          String?
-  languageSpecific   LanguageSpecific?  @relation(name: "TranslationLanguageSpecific", fields: [languageSpecificId], references: [id])
-  languageSpecificId String?            @db.ObjectId
+  languageSpecific   LanguageSpecific? @relation(name: "TranslationLanguageSpecific", fields: [languageSpecificId], references: [id])
+  languageSpecificId String?           @db.ObjectId
 
-  definitions        TranslationDefinition[]
-  word               Word               @relation(fields: [wordId], references: [id])
-  wordId             String             @db.ObjectId
-  createdAt          DateTime           @default(now())
+  definitions TranslationDefinition[]
+  word        Word                    @relation(fields: [wordId], references: [id])
+  wordId      String                  @db.ObjectId
+  createdAt   DateTime                @default(now())
 }
 
 model TranslationDefinition {
-  id             String    @id @default(auto()) @map("_id") @db.ObjectId
-  text           String
-  synonyms       String[]
-  examples       Example[]
-  translation    Translation @relation(fields: [translationId], references: [id])
-  translationId  String      @db.ObjectId
-  createdAt      DateTime    @default(now())
+  id            String      @id @default(auto()) @map("_id") @db.ObjectId
+  text          String
+  synonyms      String[]
+  examples      Example[]
+  translation   Translation @relation(fields: [translationId], references: [id])
+  translationId String      @db.ObjectId
+  createdAt     DateTime    @default(now())
 }
 
 model Example {
-  id                         String   @id @default(auto()) @map("_id") @db.ObjectId
-  text                       String
-  source                     ExampleSource? @relation(fields: [sourceId], references: [id])
-  sourceId                   String?         @db.ObjectId
-  definition                 Definition?     @relation(fields: [definitionId], references: [id])
-  definitionId               String?         @db.ObjectId
-  translationDefinition      TranslationDefinition? @relation(fields: [translationDefinitionId], references: [id])
-  translationDefinitionId    String?                 @db.ObjectId
-  createdAt                  DateTime @default(now())
+  id                      String                 @id @default(auto()) @map("_id") @db.ObjectId
+  text                    String
+  source                  ExampleSource?         @relation(fields: [sourceId], references: [id])
+  sourceId                String?                @db.ObjectId
+  definition              Definition?            @relation(fields: [definitionId], references: [id])
+  definitionId            String?                @db.ObjectId
+  translationDefinition   TranslationDefinition? @relation(fields: [translationDefinitionId], references: [id])
+  translationDefinitionId String?                @db.ObjectId
+  createdAt               DateTime               @default(now())
 }
 
 model ExampleSource {
-  id           String   @id @default(auto()) @map("_id") @db.ObjectId
-  title        String?
-  publication  String?
-  date         DateTime?
-  examples     Example[]
+  id          String    @id @default(auto()) @map("_id") @db.ObjectId
+  title       String?
+  publication String?
+  date        DateTime?
+  examples    Example[]
 }
 
 model Metadata {
-  id                  String   @id @default(auto()) @map("_id") @db.ObjectId
+  id                  String    @id @default(auto()) @map("_id") @db.ObjectId
   counterWords        Int?
   cumulativeFrequency Int?
   entryDate           DateTime?
   relatedTerms        String[]
   source              String?
-  word                Word?    @relation(name: "WordMetadata")
+  word                Word?     @relation(name: "WordMetadata")
 }

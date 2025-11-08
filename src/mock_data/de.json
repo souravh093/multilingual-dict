@@ -1,0 +1,44 @@
+[
+  {
+    "language": "de",
+    "text": "Haus",
+    "article": "das",
+    "stem": "Haus",
+    "phonetics": "haʊs",
+    "definitions": [
+      {
+        "text": "Ein Gebäude, in dem Menschen wohnen",
+        "synonyms": ["Heim", "Wohnung"],
+        "examples": ["Das Haus am See ist alt.", "Ich habe ein neues Haus gekauft."]
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Auto",
+    "article": "das",
+    "stem": "Aut",
+    "phonetics": "ˈaʊto",
+    "definitions": [
+      {
+        "text": "Ein motorisiertes Fahrzeug auf Rädern",
+        "synonyms": ["Wagen", "Fahrzeug"],
+        "examples": ["Mein Auto ist rot.", "Sie fährt ein neues Auto."]
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Buch",
+    "article": "das",
+    "stem": "Buch",
+    "phonetics": "buːx",
+    "definitions": [
+      {
+        "text": "Eine Sammlung von geschriebenen Seiten zusammengebunden",
+        "synonyms": ["Band", "Publikation"],
+        "examples": ["Ich lese ein Buch.", "Die Bücher stehen im Regal."]
+      }
+    ]
+  }
+]

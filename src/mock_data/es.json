@@ -1,0 +1,44 @@
+[
+  {
+    "language": "es",
+    "text": "Casa",
+    "article": "la",
+    "stem": "cas",
+    "phonetics": "ˈkasa",
+    "definitions": [
+      {
+        "text": "Un edificio donde vive la gente",
+        "synonyms": ["hogar", "residencia"],
+        "examples": ["La casa de Juan es muy grande.", "Compré una nueva casa."]
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "text": "Coche",
+    "article": "el",
+    "stem": "coch",
+    "phonetics": "ˈkotʃe",
+    "definitions": [
+      {
+        "text": "Un vehículo de motor sobre ruedas",
+        "synonyms": ["automóvil", "vehículo"],
+        "examples": ["Mi coche es rojo.", "Ella conduce un coche nuevo."]
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "text": "Libro",
+    "article": "el",
+    "stem": "libr",
+    "phonetics": "ˈliβɾo",
+    "definitions": [
+      {
+        "text": "Conjunto de páginas escritas encuadernadas",
+        "synonyms": ["volumen", "publicación"],
+        "examples": ["Estoy leyendo un libro.", "Los libros están en la estantería."]
+      }
+    ]
+  }
+]
