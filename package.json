@@ -4,7 +4,11 @@
   "description": "This is multilingual directory app like google translate",
   "main": "index.js",
   "scripts": {
-    "prisma:generate": "prisma generate",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "prisma:generate": "npx prisma generate",
+    "prisma:push": "npx prisma db push",
     "seed": "ts-node --transpile-only scripts/seed.ts",
     "migrate": "ts-node --transpile-only scripts/migrate.ts",
     "create-indexes": "ts-node --transpile-only scripts/create-indexes.ts",
@@ -18,6 +22,9 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "@prisma/client": "^6.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "prisma": "^6.19.0"
   }
 }
