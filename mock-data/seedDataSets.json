@@ -1877,6 +1877,4377 @@
         "relatedTerms": ["Mond", "Stern", "Himmel", "Licht", "scheinen"],
         "source": "German Nature Vocabulary 2024"
       }
+    },
+    {
+      "baseWord": {
+        "text": "Musik",
+        "language": "de",
+        "article": "die",
+        "stem": "musik",
+        "prefix": null,
+        "phonetics": "/muˈziːk/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Art form combining vocal or instrumental sounds. No plural form typically used."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_musik_01",
+          "text": "The art of arranging sounds in time to produce a composition of melody, harmony, rhythm, and timbre",
+          "synonyms": ["Klang", "Melodie", "Tonkunst"],
+          "examples": [
+            {
+              "text": "Ich höre gerne klassische Musik.",
+              "source": {
+                "title": "Music Preferences Study",
+                "publication": "Kultur & Kunst",
+                "date": "2024-07-12T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Musik war sehr laut.",
+              "source": null
+            },
+            {
+              "text": "Er studiert Musik an der Universität.",
+              "source": {
+                "title": "Education Paths",
+                "publication": "Studium Heute",
+                "date": "2024-05-08T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "music",
+          "article": null,
+          "stem": "music",
+          "prefix": null,
+          "phonetics": "/ˈmjuːzɪk/",
+          "languageSpecific": {
+            "usageNotes": "Uncountable noun. Universal art form across all cultures."
+          },
+          "definitions": [
+            {
+              "text": "Vocal or instrumental sounds combined to produce beauty of form and expression",
+              "synonyms": ["melody", "harmony", "tune"],
+              "examples": [
+                {
+                  "text": "I love listening to classical music.",
+                  "source": null
+                },
+                {
+                  "text": "The music was very loud.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "música",
+          "article": "la",
+          "stem": "músic",
+          "prefix": null,
+          "phonetics": "/ˈmusika/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Central to Latin culture and celebrations."
+          },
+          "definitions": [
+            {
+              "text": "Arte de combinar sonidos de manera agradable",
+              "synonyms": ["melodía", "armonía", "sonido"],
+              "examples": [
+                {
+                  "text": "Me encanta la música clásica.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "musica",
+          "article": "la",
+          "stem": "music",
+          "prefix": null,
+          "phonetics": "/ˈmuzika/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Italy has rich musical heritage, especially opera."
+          },
+          "definitions": [
+            {
+              "text": "Arte di combinare i suoni",
+              "synonyms": ["melodia", "armonia"],
+              "examples": [
+                {
+                  "text": "Adoro la musica classica.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1680,
+        "cumulativeFrequency": 265000,
+        "entryDate": "2024-03-05T14:20:00.000Z",
+        "relatedTerms": ["Lied", "Konzert", "Instrument", "singen", "spielen"],
+        "source": "German Arts Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Tür",
+        "language": "de",
+        "article": "die",
+        "stem": "tür",
+        "prefix": null,
+        "phonetics": "/tyːɐ̯/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Plural: Türen. Common in architecture and daily life."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_tuer_01",
+          "text": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle",
+          "synonyms": ["Eingang", "Pforte", "Tor"],
+          "examples": [
+            {
+              "text": "Bitte schließen Sie die Tür.",
+              "source": {
+                "title": "Office Etiquette",
+                "publication": "Büro Leben",
+                "date": "2024-04-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Tür ist offen.",
+              "source": null
+            },
+            {
+              "text": "Er klopfte an die Tür.",
+              "source": {
+                "title": "Short Stories Collection",
+                "publication": "Literatur Magazin",
+                "date": "2024-06-22T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "door",
+          "article": null,
+          "stem": "door",
+          "prefix": null,
+          "phonetics": "/dɔːr/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Used literally and metaphorically (opportunity)."
+          },
+          "definitions": [
+            {
+              "text": "A hinged barrier used to close an opening in a wall",
+              "synonyms": ["entrance", "doorway", "gate", "portal"],
+              "examples": [
+                {
+                  "text": "Please close the door.",
+                  "source": null
+                },
+                {
+                  "text": "He knocked on the door.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "puerta",
+          "article": "la",
+          "stem": "puert",
+          "prefix": null,
+          "phonetics": "/ˈpweɾta/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Used in many idiomatic expressions."
+          },
+          "definitions": [
+            {
+              "text": "Estructura móvil que sirve para cerrar una entrada",
+              "synonyms": ["entrada", "portón", "portal"],
+              "examples": [
+                {
+                  "text": "Por favor, cierra la puerta.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "porta",
+          "article": "la",
+          "stem": "port",
+          "prefix": null,
+          "phonetics": "/ˈpɔrta/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common in daily conversation and architecture."
+          },
+          "definitions": [
+            {
+              "text": "Struttura mobile per chiudere un'apertura",
+              "synonyms": ["entrata", "ingresso", "portone"],
+              "examples": [
+                {
+                  "text": "Per favore, chiudi la porta.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2350,
+        "cumulativeFrequency": 350000,
+        "entryDate": "2024-01-14T11:05:00.000Z",
+        "relatedTerms": [
+          "Fenster",
+          "Eingang",
+          "Schloss",
+          "öffnen",
+          "schließen"
+        ],
+        "source": "German Architecture Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "lernen",
+        "language": "de",
+        "article": null,
+        "stem": "lern",
+        "prefix": null,
+        "phonetics": "/ˈlɛʁnən/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular weak verb. Essential in educational contexts. Past participle: gelernt."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_lernen_01",
+          "text": "To gain knowledge or skill by studying, practicing, or being taught",
+          "synonyms": ["studieren", "üben", "sich aneignen"],
+          "examples": [
+            {
+              "text": "Ich lerne Deutsch seit zwei Jahren.",
+              "source": {
+                "title": "Language Learning Journey",
+                "publication": "Sprachen Lernen",
+                "date": "2024-05-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Kinder lernen sehr schnell.",
+              "source": {
+                "title": "Child Development",
+                "publication": "Pädagogik Journal",
+                "date": "2024-03-20T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Man lernt nie aus.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "learn",
+          "article": null,
+          "stem": "learn",
+          "prefix": null,
+          "phonetics": "/lɜːrn/",
+          "languageSpecific": {
+            "usageNotes": "Regular verb. Fundamental to education and personal development."
+          },
+          "definitions": [
+            {
+              "text": "To gain knowledge or skill through study or experience",
+              "synonyms": ["study", "acquire", "master", "grasp"],
+              "examples": [
+                {
+                  "text": "I've been learning German for two years.",
+                  "source": null
+                },
+                {
+                  "text": "Children learn very quickly.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "aprender",
+          "article": null,
+          "stem": "aprend",
+          "prefix": null,
+          "phonetics": "/apɾenˈdeɾ/",
+          "languageSpecific": {
+            "usageNotes": "Regular -er verb. Essential verb in educational settings."
+          },
+          "definitions": [
+            {
+              "text": "Adquirir conocimiento o habilidad",
+              "synonyms": ["estudiar", "asimilar", "instruirse"],
+              "examples": [
+                {
+                  "text": "Estoy aprendiendo alemán.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "imparare",
+          "article": null,
+          "stem": "impar",
+          "prefix": null,
+          "phonetics": "/impaˈrare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Core verb in education and skill acquisition."
+          },
+          "definitions": [
+            {
+              "text": "Acquisire conoscenza o abilità",
+              "synonyms": ["studiare", "apprendere", "assimilare"],
+              "examples": [
+                {
+                  "text": "Sto imparando il tedesco.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2750,
+        "cumulativeFrequency": 410000,
+        "entryDate": "2024-02-18T09:30:00.000Z",
+        "relatedTerms": [
+          "Lernen",
+          "Schule",
+          "Unterricht",
+          "Wissen",
+          "studieren"
+        ],
+        "source": "German Education Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Fenster",
+        "language": "de",
+        "article": "das",
+        "stem": "fenster",
+        "prefix": null,
+        "phonetics": "/ˈfɛnstɐ/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Neuter noun. Plural: Fenster (same form). Common in architecture and computing."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_fenster_01",
+          "text": "An opening in a wall or roof fitted with glass to admit light or air",
+          "synonyms": ["Glasöffnung", "Luke"],
+          "examples": [
+            {
+              "text": "Kannst du bitte das Fenster öffnen?",
+              "source": {
+                "title": "Indoor Climate Guide",
+                "publication": "Wohnen & Leben",
+                "date": "2024-04-25T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Das Fenster ist kaputt.",
+              "source": null
+            },
+            {
+              "text": "Sie schaut aus dem Fenster.",
+              "source": {
+                "title": "Daily Activities",
+                "publication": "Alltag Deutsch",
+                "date": "2024-06-05T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "window",
+          "article": null,
+          "stem": "window",
+          "prefix": null,
+          "phonetics": "/ˈwɪndoʊ/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Also used metaphorically (window of opportunity) and in computing."
+          },
+          "definitions": [
+            {
+              "text": "An opening in a wall with glass to let in light",
+              "synonyms": ["pane", "opening", "casement"],
+              "examples": [
+                {
+                  "text": "Can you please open the window?",
+                  "source": null
+                },
+                {
+                  "text": "She's looking out the window.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "ventana",
+          "article": "la",
+          "stem": "ventan",
+          "prefix": null,
+          "phonetics": "/benˈtana/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common in architecture and daily life."
+          },
+          "definitions": [
+            {
+              "text": "Abertura en una pared para dar luz y ventilación",
+              "synonyms": ["ventanal", "abertura"],
+              "examples": [
+                {
+                  "text": "¿Puedes abrir la ventana?",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "finestra",
+          "article": "la",
+          "stem": "finestr",
+          "prefix": null,
+          "phonetics": "/fiˈnɛstra/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Essential element in Italian architecture."
+          },
+          "definitions": [
+            {
+              "text": "Apertura nel muro per far entrare luce",
+              "synonyms": ["vetrata", "apertura"],
+              "examples": [
+                {
+                  "text": "Puoi aprire la finestra?",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1890,
+        "cumulativeFrequency": 285000,
+        "entryDate": "2024-01-30T10:45:00.000Z",
+        "relatedTerms": ["Tür", "Glas", "öffnen", "Rahmen", "Scheibe"],
+        "source": "German Building Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Liebe",
+        "language": "de",
+        "article": "die",
+        "stem": "lieb",
+        "prefix": null,
+        "phonetics": "/ˈliːbə/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Abstract concept with deep emotional significance. Related verb: lieben."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_liebe_01",
+          "text": "An intense feeling of deep affection or romantic attachment",
+          "synonyms": ["Zuneigung", "Verliebtheit", "Herzlichkeit"],
+          "examples": [
+            {
+              "text": "Die Liebe ist das stärkste Gefühl.",
+              "source": {
+                "title": "Philosophy of Emotions",
+                "publication": "Psychologie Heute",
+                "date": "2024-02-14T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie hat die Liebe ihres Lebens gefunden.",
+              "source": {
+                "title": "Romance Stories",
+                "publication": "Herz & Seele",
+                "date": "2024-05-30T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Liebe macht blind.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "love",
+          "article": null,
+          "stem": "love",
+          "prefix": null,
+          "phonetics": "/lʌv/",
+          "languageSpecific": {
+            "usageNotes": "Noun and verb. Universal human emotion, central to literature and culture."
+          },
+          "definitions": [
+            {
+              "text": "An intense feeling of deep affection",
+              "synonyms": ["affection", "devotion", "passion", "adoration"],
+              "examples": [
+                {
+                  "text": "Love is the strongest feeling.",
+                  "source": null
+                },
+                {
+                  "text": "She found the love of her life.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "amor",
+          "article": "el",
+          "stem": "amor",
+          "prefix": null,
+          "phonetics": "/aˈmoɾ/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Central theme in Spanish literature and culture."
+          },
+          "definitions": [
+            {
+              "text": "Sentimiento intenso de afecto",
+              "synonyms": ["cariño", "afecto", "pasión", "ternura"],
+              "examples": [
+                {
+                  "text": "El amor es el sentimiento más fuerte.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "amore",
+          "article": "l'",
+          "stem": "amor",
+          "prefix": null,
+          "phonetics": "/aˈmore/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Italy is known as country of romance and passion."
+          },
+          "definitions": [
+            {
+              "text": "Sentimento di affetto intenso",
+              "synonyms": ["affetto", "passione", "tenerezza"],
+              "examples": [
+                {
+                  "text": "L'amore è il sentimento più forte.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3100,
+        "cumulativeFrequency": 485000,
+        "entryDate": "2024-02-14T16:00:00.000Z",
+        "relatedTerms": ["lieben", "verliebt", "Herz", "Gefühl", "Zuneigung"],
+        "source": "German Emotional Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "jung",
+        "language": "de",
+        "article": null,
+        "stem": "jung",
+        "prefix": null,
+        "phonetics": "/jʊŋ/",
+        "wordType": "ADJECTIVE",
+        "languageSpecific": {
+          "usageNotes": "Common adjective. Comparative: jünger, Superlative: am jüngsten. Opposite: alt."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_jung_01",
+          "text": "Having lived or existed for only a short time; not old",
+          "synonyms": ["jugendlich", "kindlich", "unreif"],
+          "examples": [
+            {
+              "text": "Sie ist noch sehr jung.",
+              "source": {
+                "title": "Age and Development",
+                "publication": "Lebensphasen",
+                "date": "2024-03-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Pflanze ist noch zu jung.",
+              "source": null
+            },
+            {
+              "text": "Er sieht jünger aus als er ist.",
+              "source": {
+                "title": "Appearance and Age",
+                "publication": "Gesundheit & Aussehen",
+                "date": "2024-07-02T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "young",
+          "article": null,
+          "stem": "young",
+          "prefix": null,
+          "phonetics": "/jʌŋ/",
+          "languageSpecific": {
+            "usageNotes": "Common adjective. Comparative: younger, Superlative: youngest."
+          },
+          "definitions": [
+            {
+              "text": "Having lived for a short time; not old",
+              "synonyms": ["youthful", "juvenile", "immature"],
+              "examples": [
+                {
+                  "text": "She is still very young.",
+                  "source": null
+                },
+                {
+                  "text": "He looks younger than he is.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "joven",
+          "article": null,
+          "stem": "joven",
+          "prefix": null,
+          "phonetics": "/ˈxoβen/",
+          "languageSpecific": {
+            "usageNotes": "Adjective that agrees in number but not gender (joven/jóvenes)."
+          },
+          "definitions": [
+            {
+              "text": "De poca edad",
+              "synonyms": ["juvenil", "mozo", "tierno"],
+              "examples": [
+                {
+                  "text": "Ella es muy joven.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "giovane",
+          "article": null,
+          "stem": "giovan",
+          "prefix": null,
+          "phonetics": "/ˈdʒovane/",
+          "languageSpecific": {
+            "usageNotes": "Adjective with regular forms. Can also be used as a noun."
+          },
+          "definitions": [
+            {
+              "text": "Di poca età",
+              "synonyms": ["giovanile", "adolescente"],
+              "examples": [
+                {
+                  "text": "Lei è ancora molto giovane.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2450,
+        "cumulativeFrequency": 365000,
+        "entryDate": "2024-02-22T13:15:00.000Z",
+        "relatedTerms": ["alt", "Jugend", "Kind", "Alter", "jugendlich"],
+        "source": "German Age Descriptors 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Nacht",
+        "language": "de",
+        "article": "die",
+        "stem": "nacht",
+        "prefix": null,
+        "phonetics": "/naxt/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Plural: Nächte. Time period opposite to Tag (day)."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_nacht_01",
+          "text": "The period of darkness between sunset and sunrise",
+          "synonyms": ["Dunkelheit", "Finsternis"],
+          "examples": [
+            {
+              "text": "Die Nacht war sehr dunkel.",
+              "source": {
+                "title": "Nature Observations",
+                "publication": "Natur Welt",
+                "date": "2024-06-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Gute Nacht und schlaf gut!",
+              "source": null
+            },
+            {
+              "text": "In der Nacht ist es kalt.",
+              "source": {
+                "title": "Weather Patterns",
+                "publication": "Meteorologie Journal",
+                "date": "2024-04-12T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "night",
+          "article": null,
+          "stem": "night",
+          "prefix": null,
+          "phonetics": "/naɪt/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Used in many expressions and greetings."
+          },
+          "definitions": [
+            {
+              "text": "The period of darkness between sunset and sunrise",
+              "synonyms": ["nighttime", "darkness", "evening"],
+              "examples": [
+                {
+                  "text": "The night was very dark.",
+                  "source": null
+                },
+                {
+                  "text": "Good night and sleep well!",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "noche",
+          "article": "la",
+          "stem": "noch",
+          "prefix": null,
+          "phonetics": "/ˈnotʃe/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Essential in time expressions and greetings."
+          },
+          "definitions": [
+            {
+              "text": "Tiempo entre la puesta y la salida del sol",
+              "synonyms": ["oscuridad", "madrugada"],
+              "examples": [
+                {
+                  "text": "La noche era muy oscura.",
+                  "source": null
+                },
+                {
+                  "text": "¡Buenas noches!",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "notte",
+          "article": "la",
+          "stem": "nott",
+          "prefix": null,
+          "phonetics": "/ˈnɔtte/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common in time expressions and romantic contexts."
+          },
+          "definitions": [
+            {
+              "text": "Periodo di buio tra il tramonto e l'alba",
+              "synonyms": ["oscurità", "buio"],
+              "examples": [
+                {
+                  "text": "La notte era molto buia.",
+                  "source": null
+                },
+                {
+                  "text": "Buona notte!",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2650,
+        "cumulativeFrequency": 395000,
+        "entryDate": "2024-01-16T15:40:00.000Z",
+        "relatedTerms": ["Tag", "Abend", "Morgen", "dunkel", "schlafen"],
+        "source": "German Time Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Baum",
+        "language": "de",
+        "article": "der",
+        "stem": "baum",
+        "prefix": null,
+        "phonetics": "/baʊm/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Masculine noun. Plural: Bäume (with umlaut). Essential nature vocabulary."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_baum_01",
+          "text": "A woody perennial plant with a single main stem or trunk growing to a considerable height",
+          "synonyms": ["Gewächs", "Pflanze"],
+          "examples": [
+            {
+              "text": "Der Baum ist sehr alt.",
+              "source": {
+                "title": "Forest Ecology",
+                "publication": "Natur & Umwelt",
+                "date": "2024-05-22T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Im Garten stehen viele Bäume.",
+              "source": null
+            },
+            {
+              "text": "Der Apfelbaum trägt Früchte.",
+              "source": {
+                "title": "Gardening Guide",
+                "publication": "Garten Magazin",
+                "date": "2024-08-10T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "tree",
+          "article": null,
+          "stem": "tree",
+          "prefix": null,
+          "phonetics": "/triː/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Essential to ecology and environmental discussions."
+          },
+          "definitions": [
+            {
+              "text": "A woody plant with a trunk and branches",
+              "synonyms": ["plant", "timber", "wood"],
+              "examples": [
+                {
+                  "text": "The tree is very old.",
+                  "source": null
+                },
+                {
+                  "text": "There are many trees in the garden.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "árbol",
+          "article": "el",
+          "stem": "árbol",
+          "prefix": null,
+          "phonetics": "/ˈaɾβol/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Central to nature and environmental vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Planta perenne de tronco leñoso y elevado",
+              "synonyms": ["planta", "vegetal"],
+              "examples": [
+                {
+                  "text": "El árbol es muy viejo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "albero",
+          "article": "l'",
+          "stem": "alber",
+          "prefix": null,
+          "phonetics": "/ˈalbero/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Important in Italian landscape and culture."
+          },
+          "definitions": [
+            {
+              "text": "Pianta perenne con tronco legnoso",
+              "synonyms": ["pianta", "vegetale"],
+              "examples": [
+                {
+                  "text": "L'albero è molto vecchio.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1750,
+        "cumulativeFrequency": 275000,
+        "entryDate": "2024-03-10T11:30:00.000Z",
+        "relatedTerms": ["Wald", "Pflanze", "Blatt", "Wurzel", "Ast"],
+        "source": "German Nature Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "fragen",
+        "language": "de",
+        "article": null,
+        "stem": "frag",
+        "prefix": null,
+        "phonetics": "/ˈfʁaːɡən/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular weak verb. Essential communication verb. Past participle: gefragt."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_fragen_01",
+          "text": "To request information from someone by posing a question",
+          "synonyms": ["erfragen", "nachfragen", "sich erkundigen"],
+          "examples": [
+            {
+              "text": "Darf ich Sie etwas fragen?",
+              "source": {
+                "title": "Polite Communication",
+                "publication": "Etikette Heute",
+                "date": "2024-04-28T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Er hat mich nach dem Weg gefragt.",
+              "source": null
+            },
+            {
+              "text": "Frag doch deinen Lehrer!",
+              "source": {
+                "title": "Learning Strategies",
+                "publication": "Bildung & Lernen",
+                "date": "2024-06-12T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "ask",
+          "article": null,
+          "stem": "ask",
+          "prefix": null,
+          "phonetics": "/æsk/",
+          "languageSpecific": {
+            "usageNotes": "Regular verb. Essential for communication and seeking information."
+          },
+          "definitions": [
+            {
+              "text": "To request information by posing a question",
+              "synonyms": ["inquire", "question", "query", "request"],
+              "examples": [
+                {
+                  "text": "May I ask you something?",
+                  "source": null
+                },
+                {
+                  "text": "He asked me for directions.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "preguntar",
+          "article": null,
+          "stem": "pregunt",
+          "prefix": null,
+          "phonetics": "/pɾeɣunˈtar/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ar verb. Essential in communication and information seeking."
+          },
+          "definitions": [
+            {
+              "text": "Solicitar información mediante una pregunta",
+              "synonyms": ["inquirir", "cuestionar", "interrogar"],
+              "examples": [
+                {
+                  "text": "¿Puedo preguntarte algo?",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "chiedere",
+          "article": null,
+          "stem": "chied",
+          "prefix": null,
+          "phonetics": "/ˈkjɛdere/",
+          "languageSpecific": {
+            "usageNotes": "Irregular verb. Essential for communication and requests."
+          },
+          "definitions": [
+            {
+              "text": "Richiedere informazioni con una domanda",
+              "synonyms": ["domandare", "interrogare", "informarsi"],
+              "examples": [
+                {
+                  "text": "Posso chiederti qualcosa?",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3350,
+        "cumulativeFrequency": 505000,
+        "entryDate": "2024-02-08T14:55:00.000Z",
+        "relatedTerms": ["Frage", "antworten", "bitten", "erkundigen"],
+        "source": "German Communication Verbs 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Geld",
+        "language": "de",
+        "article": "das",
+        "stem": "geld",
+        "prefix": null,
+        "phonetics": "/ɡɛlt/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Neuter noun. No plural in standard usage. Central to economy and daily life."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_geld_01",
+          "text": "A current medium of exchange in the form of coins and banknotes",
+          "synonyms": ["Währung", "Kapital", "Vermögen", "Finanzen"],
+          "examples": [
+            {
+              "text": "Ich habe nicht genug Geld dabei.",
+              "source": {
+                "title": "Personal Finance",
+                "publication": "Finanzen Aktuell",
+                "date": "2024-05-16T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Geld regiert die Welt.",
+              "source": {
+                "title": "Economic Philosophy",
+                "publication": "Wirtschaft & Gesellschaft",
+                "date": "2024-03-25T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Er verdient viel Geld.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "money",
+          "article": null,
+          "stem": "money",
+          "prefix": null,
+          "phonetics": "/ˈmʌni/",
+          "languageSpecific": {
+            "usageNotes": "Uncountable noun. Central to economics and daily transactions."
+          },
+          "definitions": [
+            {
+              "text": "A medium of exchange in the form of coins and notes",
+              "synonyms": ["currency", "cash", "funds", "capital"],
+              "examples": [
+                {
+                  "text": "I don't have enough money with me.",
+                  "source": null
+                },
+                {
+                  "text": "He earns a lot of money.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "dinero",
+          "article": "el",
+          "stem": "diner",
+          "prefix": null,
+          "phonetics": "/diˈneɾo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Essential in economic and daily life contexts."
+          },
+          "definitions": [
+            {
+              "text": "Medio de intercambio en forma de monedas y billetes",
+              "synonyms": ["plata", "capital", "efectivo"],
+              "examples": [
+                {
+                  "text": "No tengo suficiente dinero.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "denaro",
+          "article": "il",
+          "stem": "denar",
+          "prefix": null,
+          "phonetics": "/deˈnaro/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Also 'soldi' in colloquial speech. Central to economy."
+          },
+          "definitions": [
+            {
+              "text": "Mezzo di scambio in forma di monete e banconote",
+              "synonyms": ["soldi", "capitale", "valuta"],
+              "examples": [
+                {
+                  "text": "Non ho abbastanza denaro.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2900,
+        "cumulativeFrequency": 435000,
+        "entryDate": "2024-01-20T12:10:00.000Z",
+        "relatedTerms": ["Währung", "Euro", "bezahlen", "kaufen", "verdienen"],
+        "source": "German Economic Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "computer",
+        "language": "en",
+        "article": null,
+        "stem": "comput",
+        "prefix": null,
+        "phonetics": "/kəmˈpjuːtər/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Common countable noun. Essential in modern technology and workplace."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_computer_01",
+          "text": "An electronic device for storing and processing data, typically in binary form",
+          "synonyms": ["PC", "machine", "processor", "laptop"],
+          "examples": [
+            {
+              "text": "I use my computer for work every day.",
+              "source": {
+                "title": "Modern Workplace Study",
+                "publication": "Tech Today",
+                "date": "2024-06-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "The computer crashed during the presentation.",
+              "source": null
+            },
+            {
+              "text": "She bought a new computer for school.",
+              "source": {
+                "title": "Education Technology",
+                "publication": "Learning & Tech",
+                "date": "2024-04-22T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Computer",
+          "article": "der",
+          "stem": "computer",
+          "prefix": null,
+          "phonetics": "/kɔmˈpjuːtɐ/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Borrowed from English. Also called 'Rechner' in German."
+          },
+          "definitions": [
+            {
+              "text": "Elektronisches Gerät zur Datenverarbeitung",
+              "synonyms": ["Rechner", "PC"],
+              "examples": [
+                {
+                  "text": "Ich benutze meinen Computer täglich.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "computadora",
+          "article": "la",
+          "stem": "computador",
+          "prefix": null,
+          "phonetics": "/komputaˈðoɾa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun in Latin America. In Spain, 'ordenador' (masculine) is more common."
+          },
+          "definitions": [
+            {
+              "text": "Dispositivo electrónico para procesar datos",
+              "synonyms": ["ordenador", "PC"],
+              "examples": [
+                {
+                  "text": "Uso mi computadora para trabajar.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "computer",
+          "article": "il",
+          "stem": "computer",
+          "prefix": null,
+          "phonetics": "/komˈpjuter/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. English loanword, invariable. Also 'calcolatore' in formal contexts."
+          },
+          "definitions": [
+            {
+              "text": "Dispositivo elettronico per elaborare dati",
+              "synonyms": ["calcolatore", "PC"],
+              "examples": [
+                {
+                  "text": "Uso il computer ogni giorno.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2450,
+        "cumulativeFrequency": 380000,
+        "entryDate": "2024-03-12T10:15:00.000Z",
+        "relatedTerms": [
+          "laptop",
+          "keyboard",
+          "software",
+          "technology",
+          "internet"
+        ],
+        "source": "English Technology Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "happy",
+        "language": "en",
+        "article": null,
+        "stem": "happi",
+        "prefix": null,
+        "phonetics": "/ˈhæpi/",
+        "wordType": "ADJECTIVE",
+        "languageSpecific": {
+          "usageNotes": "Common adjective. Comparative: happier, Superlative: happiest. Describes positive emotional state."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_happy_01",
+          "text": "Feeling or showing pleasure or contentment",
+          "synonyms": ["joyful", "cheerful", "content", "pleased", "delighted"],
+          "examples": [
+            {
+              "text": "She looks very happy today.",
+              "source": {
+                "title": "Emotions and Wellbeing",
+                "publication": "Psychology Today",
+                "date": "2024-05-20T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "I'm happy to help you.",
+              "source": null
+            },
+            {
+              "text": "They had a happy childhood.",
+              "source": {
+                "title": "Family Memories",
+                "publication": "Life Stories",
+                "date": "2024-07-10T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "glücklich",
+          "article": null,
+          "stem": "glücklich",
+          "prefix": null,
+          "phonetics": "/ˈɡlʏklɪç/",
+          "languageSpecific": {
+            "usageNotes": "Common adjective. Can also mean 'lucky' depending on context."
+          },
+          "definitions": [
+            {
+              "text": "Froh und zufrieden",
+              "synonyms": ["froh", "fröhlich", "zufrieden"],
+              "examples": [
+                {
+                  "text": "Sie sieht heute sehr glücklich aus.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "feliz",
+          "article": null,
+          "stem": "feliz",
+          "prefix": null,
+          "phonetics": "/feˈlis/",
+          "languageSpecific": {
+            "usageNotes": "Adjective with singular/plural forms (feliz/felices). Core emotion word."
+          },
+          "definitions": [
+            {
+              "text": "Que siente alegría y satisfacción",
+              "synonyms": ["alegre", "contento", "dichoso"],
+              "examples": [
+                {
+                  "text": "Ella se ve muy feliz hoy.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "felice",
+          "article": null,
+          "stem": "felic",
+          "prefix": null,
+          "phonetics": "/feˈlitʃe/",
+          "languageSpecific": {
+            "usageNotes": "Common adjective with regular forms. Central to expressing positive emotions."
+          },
+          "definitions": [
+            {
+              "text": "Che prova gioia e soddisfazione",
+              "synonyms": ["contento", "gioioso", "allegro"],
+              "examples": [
+                {
+                  "text": "Lei sembra molto felice oggi.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3850,
+        "cumulativeFrequency": 565000,
+        "entryDate": "2024-02-28T14:30:00.000Z",
+        "relatedTerms": ["joy", "happiness", "sad", "pleased", "cheerful"],
+        "source": "English Emotion Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "travel",
+        "language": "en",
+        "article": null,
+        "stem": "travel",
+        "prefix": null,
+        "phonetics": "/ˈtrævəl/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular verb. Can also be used as a noun. British spelling: travelling, American: traveling."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_travel_01",
+          "text": "To make a journey, typically of some length or abroad",
+          "synonyms": ["journey", "voyage", "tour", "trek"],
+          "examples": [
+            {
+              "text": "I love to travel to new countries.",
+              "source": {
+                "title": "Global Tourism Report",
+                "publication": "Travel Magazine",
+                "date": "2024-06-05T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "She travels for work frequently.",
+              "source": null
+            },
+            {
+              "text": "We plan to travel across Europe next summer.",
+              "source": {
+                "title": "Vacation Planning Guide",
+                "publication": "Adventure World",
+                "date": "2024-03-18T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "reisen",
+          "article": null,
+          "stem": "reis",
+          "prefix": null,
+          "phonetics": "/ˈʁaɪzən/",
+          "languageSpecific": {
+            "usageNotes": "Regular weak verb. Past participle: gereist. Common in tourism contexts."
+          },
+          "definitions": [
+            {
+              "text": "Eine Fahrt oder Reise unternehmen",
+              "synonyms": ["fahren", "unterwegs sein"],
+              "examples": [
+                {
+                  "text": "Ich reise gerne in neue Länder.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "viajar",
+          "article": null,
+          "stem": "viaj",
+          "prefix": null,
+          "phonetics": "/bjaˈxar/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ar verb. Essential verb for tourism and movement."
+          },
+          "definitions": [
+            {
+              "text": "Trasladarse de un lugar a otro, generalmente distante",
+              "synonyms": ["desplazarse", "recorrer"],
+              "examples": [
+                {
+                  "text": "Me encanta viajar a países nuevos.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "viaggiare",
+          "article": null,
+          "stem": "viaggi",
+          "prefix": null,
+          "phonetics": "/vjaˈddʒare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Italy has strong travel culture and history."
+          },
+          "definitions": [
+            {
+              "text": "Spostarsi da un luogo all'altro",
+              "synonyms": ["spostarsi", "andare"],
+              "examples": [
+                {
+                  "text": "Amo viaggiare in nuovi paesi.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2150,
+        "cumulativeFrequency": 325000,
+        "entryDate": "2024-04-08T11:45:00.000Z",
+        "relatedTerms": [
+          "journey",
+          "trip",
+          "vacation",
+          "tourist",
+          "destination"
+        ],
+        "source": "English Travel Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "mountain",
+        "language": "en",
+        "article": null,
+        "stem": "mountain",
+        "prefix": null,
+        "phonetics": "/ˈmaʊntɪn/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Geographical feature, often used metaphorically for challenges."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_mountain_01",
+          "text": "A large natural elevation of the earth's surface rising abruptly from the surrounding level",
+          "synonyms": ["peak", "summit", "hill", "mount"],
+          "examples": [
+            {
+              "text": "Mount Everest is the highest mountain in the world.",
+              "source": {
+                "title": "Geography Encyclopedia",
+                "publication": "World Geography",
+                "date": "2024-02-10T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "We climbed the mountain in five hours.",
+              "source": null
+            },
+            {
+              "text": "The view from the mountain was breathtaking.",
+              "source": {
+                "title": "Hiking Adventures",
+                "publication": "Outdoor Life",
+                "date": "2024-07-25T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Berg",
+          "article": "der",
+          "stem": "berg",
+          "prefix": null,
+          "phonetics": "/bɛʁk/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Plural: Berge. Very important in German-speaking Alpine regions."
+          },
+          "definitions": [
+            {
+              "text": "Große natürliche Erhebung der Erdoberfläche",
+              "synonyms": ["Gipfel", "Erhebung"],
+              "examples": [
+                {
+                  "text": "Der Berg ist sehr steil.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "montaña",
+          "article": "la",
+          "stem": "montañ",
+          "prefix": null,
+          "phonetics": "/monˈtaɲa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Spain has important mountain ranges like Pyrenees and Sierra Nevada."
+          },
+          "definitions": [
+            {
+              "text": "Gran elevación natural del terreno",
+              "synonyms": ["monte", "cumbre", "pico"],
+              "examples": [
+                {
+                  "text": "Subimos la montaña en cinco horas.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "montagna",
+          "article": "la",
+          "stem": "montagn",
+          "prefix": null,
+          "phonetics": "/monˈtaɲɲa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Italy has the Alps and Apennines mountain ranges."
+          },
+          "definitions": [
+            {
+              "text": "Grande elevazione naturale del terreno",
+              "synonyms": ["monte", "vetta", "cima"],
+              "examples": [
+                {
+                  "text": "Abbiamo scalato la montagna in cinque ore.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1580,
+        "cumulativeFrequency": 240000,
+        "entryDate": "2024-03-22T09:20:00.000Z",
+        "relatedTerms": ["hill", "peak", "summit", "climb", "valley"],
+        "source": "English Geography Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "speak",
+        "language": "en",
+        "article": null,
+        "stem": "speak",
+        "prefix": null,
+        "phonetics": "/spiːk/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Irregular verb: speak, spoke, spoken. Essential communication verb."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_speak_01",
+          "text": "To say something in order to convey information or to express a feeling",
+          "synonyms": ["talk", "say", "communicate", "express"],
+          "examples": [
+            {
+              "text": "Can you speak more slowly, please?",
+              "source": {
+                "title": "Communication Skills",
+                "publication": "Language Learning",
+                "date": "2024-05-14T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "She speaks three languages fluently.",
+              "source": null
+            },
+            {
+              "text": "I need to speak with the manager.",
+              "source": {
+                "title": "Customer Service Guide",
+                "publication": "Business Today",
+                "date": "2024-06-18T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "sprechen",
+          "article": null,
+          "stem": "sprech",
+          "prefix": null,
+          "phonetics": "/ˈʃpʁɛçən/",
+          "languageSpecific": {
+            "usageNotes": "Strong verb: spreche, sprichst, spricht, sprach, gesprochen. Essential communication verb."
+          },
+          "definitions": [
+            {
+              "text": "Sich mündlich äußern, kommunizieren",
+              "synonyms": ["reden", "kommunizieren", "sich unterhalten"],
+              "examples": [
+                {
+                  "text": "Sie spricht drei Sprachen fließend.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "hablar",
+          "article": null,
+          "stem": "habl",
+          "prefix": null,
+          "phonetics": "/aˈβlar/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ar verb. Most common verb for speaking in Spanish."
+          },
+          "definitions": [
+            {
+              "text": "Articular palabras para comunicarse",
+              "synonyms": ["conversar", "comunicar", "expresar"],
+              "examples": [
+                {
+                  "text": "Ella habla tres idiomas con fluidez.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "parlare",
+          "article": null,
+          "stem": "parl",
+          "prefix": null,
+          "phonetics": "/parˈlare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Essential verb for communication in Italian."
+          },
+          "definitions": [
+            {
+              "text": "Articolare parole per comunicare",
+              "synonyms": ["conversare", "comunicare", "dire"],
+              "examples": [
+                {
+                  "text": "Lei parla tre lingue fluentemente.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 4200,
+        "cumulativeFrequency": 620000,
+        "entryDate": "2024-01-25T15:10:00.000Z",
+        "relatedTerms": ["talk", "language", "communication", "voice", "say"],
+        "source": "English Communication Verbs 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "ocean",
+        "language": "en",
+        "article": null,
+        "stem": "ocean",
+        "prefix": null,
+        "phonetics": "/ˈoʊʃən/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Major geographical feature, there are five named oceans on Earth."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_ocean_01",
+          "text": "A very large expanse of sea, in particular each of the main areas into which the sea is divided",
+          "synonyms": ["sea", "deep", "main"],
+          "examples": [
+            {
+              "text": "The Pacific Ocean is the largest ocean on Earth.",
+              "source": {
+                "title": "Marine Geography",
+                "publication": "Ocean Studies",
+                "date": "2024-04-12T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "We sailed across the Atlantic Ocean.",
+              "source": null
+            },
+            {
+              "text": "The ocean was calm and beautiful.",
+              "source": {
+                "title": "Sailing Adventures",
+                "publication": "Maritime Life",
+                "date": "2024-08-02T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Ozean",
+          "article": "der",
+          "stem": "ozean",
+          "prefix": null,
+          "phonetics": "/oˈt͡seaːn/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Also 'Meer' for general sea. Important in geography."
+          },
+          "definitions": [
+            {
+              "text": "Sehr große Wasserfläche auf der Erde",
+              "synonyms": ["Weltmeer", "Meer"],
+              "examples": [
+                {
+                  "text": "Der Pazifische Ozean ist der größte Ozean.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "océano",
+          "article": "el",
+          "stem": "océan",
+          "prefix": null,
+          "phonetics": "/oˈθeano/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Spain has coastlines on Atlantic Ocean and Mediterranean Sea."
+          },
+          "definitions": [
+            {
+              "text": "Gran extensión de agua salada",
+              "synonyms": ["mar"],
+              "examples": [
+                {
+                  "text": "El océano Pacífico es el más grande.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "oceano",
+          "article": "l'",
+          "stem": "ocean",
+          "prefix": null,
+          "phonetics": "/oˈtʃɛano/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Italy is surrounded by seas and has maritime history."
+          },
+          "definitions": [
+            {
+              "text": "Vastissima distesa di acqua salata",
+              "synonyms": ["mare"],
+              "examples": [
+                {
+                  "text": "L'oceano Pacifico è il più grande.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1320,
+        "cumulativeFrequency": 195000,
+        "entryDate": "2024-05-05T13:25:00.000Z",
+        "relatedTerms": ["sea", "water", "wave", "marine", "coast"],
+        "source": "English Geography Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "create",
+        "language": "en",
+        "article": null,
+        "stem": "creat",
+        "prefix": null,
+        "phonetics": "/kriˈeɪt/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular verb. Essential in creative, business, and technical contexts."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_create_01",
+          "text": "To bring something into existence; to make or produce something new",
+          "synonyms": ["make", "produce", "generate", "build", "form"],
+          "examples": [
+            {
+              "text": "Artists create beautiful paintings.",
+              "source": {
+                "title": "Art and Creativity",
+                "publication": "Creative Arts Magazine",
+                "date": "2024-03-28T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "The company plans to create new jobs.",
+              "source": null
+            },
+            {
+              "text": "She created a wonderful atmosphere at the party.",
+              "source": {
+                "title": "Event Planning",
+                "publication": "Party Life",
+                "date": "2024-06-12T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "erschaffen",
+          "article": null,
+          "stem": "schaff",
+          "prefix": "er",
+          "phonetics": "/ɛɐ̯ˈʃafən/",
+          "languageSpecific": {
+            "usageNotes": "Strong verb with prefix. Also 'kreieren' or 'erstellen' depending on context."
+          },
+          "definitions": [
+            {
+              "text": "Etwas neu hervorbringen oder gestalten",
+              "synonyms": ["kreieren", "schaffen", "erstellen"],
+              "examples": [
+                {
+                  "text": "Künstler erschaffen schöne Gemälde.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "crear",
+          "article": null,
+          "stem": "cre",
+          "prefix": null,
+          "phonetics": "/kɾeˈaɾ/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ar verb. Essential in creative and business contexts."
+          },
+          "definitions": [
+            {
+              "text": "Producir algo de la nada",
+              "synonyms": ["producir", "generar", "hacer"],
+              "examples": [
+                {
+                  "text": "Los artistas crean pinturas hermosas.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "creare",
+          "article": null,
+          "stem": "cre",
+          "prefix": null,
+          "phonetics": "/kreˈare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Central to artistic and creative expressions."
+          },
+          "definitions": [
+            {
+              "text": "Dare vita a qualcosa di nuovo",
+              "synonyms": ["produrre", "generare", "fare"],
+              "examples": [
+                {
+                  "text": "Gli artisti creano bellissimi dipinti.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3650,
+        "cumulativeFrequency": 545000,
+        "entryDate": "2024-02-16T12:40:00.000Z",
+        "relatedTerms": ["make", "build", "design", "invention", "creativity"],
+        "source": "English Action Verbs 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "hospital",
+        "language": "en",
+        "article": null,
+        "stem": "hospital",
+        "prefix": null,
+        "phonetics": "/ˈhɒspɪtəl/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Medical facility, essential vocabulary for health contexts."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_hospital_01",
+          "text": "An institution providing medical and surgical treatment and nursing care for sick or injured people",
+          "synonyms": ["clinic", "medical center", "infirmary"],
+          "examples": [
+            {
+              "text": "She was taken to the hospital after the accident.",
+              "source": {
+                "title": "Emergency Medical Services",
+                "publication": "Health Today",
+                "date": "2024-04-05T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "The hospital has excellent facilities.",
+              "source": null
+            },
+            {
+              "text": "He works as a doctor at the local hospital.",
+              "source": {
+                "title": "Healthcare Professionals",
+                "publication": "Medical Journal",
+                "date": "2024-07-20T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Krankenhaus",
+          "article": "das",
+          "stem": "krankenhaus",
+          "prefix": null,
+          "phonetics": "/ˈkʁaŋkənhaʊs/",
+          "languageSpecific": {
+            "usageNotes": "Neuter noun. Compound word: Kranken (sick) + Haus (house). Also 'Klinik' for clinic."
+          },
+          "definitions": [
+            {
+              "text": "Einrichtung zur medizinischen Versorgung",
+              "synonyms": ["Klinik", "Spital"],
+              "examples": [
+                {
+                  "text": "Sie wurde ins Krankenhaus gebracht.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "hospital",
+          "article": "el",
+          "stem": "hospital",
+          "prefix": null,
+          "phonetics": "/ospiˈtal/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Same spelling as English. Essential healthcare vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Establecimiento destinado al diagnóstico y tratamiento de enfermos",
+              "synonyms": ["clínica", "sanatorio"],
+              "examples": [
+                {
+                  "text": "La llevaron al hospital después del accidente.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "ospedale",
+          "article": "l'",
+          "stem": "ospedal",
+          "prefix": null,
+          "phonetics": "/ospeˈdale/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Central to healthcare system and medical vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Struttura sanitaria per la cura dei malati",
+              "synonyms": ["clinica", "nosocomio"],
+              "examples": [
+                {
+                  "text": "È stata portata all'ospedale dopo l'incidente.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1980,
+        "cumulativeFrequency": 305000,
+        "entryDate": "2024-03-15T10:55:00.000Z",
+        "relatedTerms": ["doctor", "nurse", "patient", "medical", "clinic"],
+        "source": "English Medical Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "garden",
+        "language": "en",
+        "article": null,
+        "stem": "garden",
+        "prefix": null,
+        "phonetics": "/ˈɡɑːrdən/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Can also be used as a verb meaning to cultivate a garden."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_garden_01",
+          "text": "A piece of ground adjoining a house, used for growing flowers, vegetables, or herbs",
+          "synonyms": ["yard", "plot", "patch"],
+          "examples": [
+            {
+              "text": "She spends hours working in her garden.",
+              "source": {
+                "title": "Home Gardening Guide",
+                "publication": "Garden Life",
+                "date": "2024-05-10T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "The garden is full of beautiful roses.",
+              "source": null
+            },
+            {
+              "text": "They grow vegetables in their back garden.",
+              "source": {
+                "title": "Urban Farming",
+                "publication": "Sustainable Living",
+                "date": "2024-06-28T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Garten",
+          "article": "der",
+          "stem": "garten",
+          "prefix": null,
+          "phonetics": "/ˈɡaʁtən/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Very important in German culture. Compound: Kindergarten (children's garden)."
+          },
+          "definitions": [
+            {
+              "text": "Gestaltetes Stück Land zum Anbau von Pflanzen",
+              "synonyms": ["Grünfläche", "Anlage"],
+              "examples": [
+                {
+                  "text": "Der Garten ist voller schöner Rosen.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "jardín",
+          "article": "el",
+          "stem": "jardín",
+          "prefix": null,
+          "phonetics": "/xarˈðin/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Important in Spanish culture and architecture."
+          },
+          "definitions": [
+            {
+              "text": "Terreno donde se cultivan plantas con fines ornamentales",
+              "synonyms": ["huerto", "parque"],
+              "examples": [
+                {
+                  "text": "El jardín está lleno de rosas hermosas.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "giardino",
+          "article": "il",
+          "stem": "giardin",
+          "prefix": null,
+          "phonetics": "/dʒarˈdino/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Italy is famous for its beautiful historical gardens."
+          },
+          "definitions": [
+            {
+              "text": "Terreno coltivato con piante ornamentali",
+              "synonyms": ["orto", "parco"],
+              "examples": [
+                {
+                  "text": "Il giardino è pieno di belle rose.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1420,
+        "cumulativeFrequency": 210000,
+        "entryDate": "2024-04-20T14:05:00.000Z",
+        "relatedTerms": ["plant", "flower", "grow", "yard", "greenhouse"],
+        "source": "English Nature Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "student",
+        "language": "en",
+        "article": null,
+        "stem": "student",
+        "prefix": null,
+        "phonetics": "/ˈstuːdənt/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Gender-neutral term for someone engaged in study."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_student_01",
+          "text": "A person who is studying at a school, college, or university",
+          "synonyms": ["pupil", "learner", "scholar"],
+          "examples": [
+            {
+              "text": "She is a medical student at Harvard University.",
+              "source": {
+                "title": "Higher Education Report",
+                "publication": "Education Today",
+                "date": "2024-05-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "The students are preparing for their exams.",
+              "source": null
+            },
+            {
+              "text": "He was an excellent student in high school.",
+              "source": {
+                "title": "Academic Achievement",
+                "publication": "School Life",
+                "date": "2024-03-25T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Student",
+          "article": "der",
+          "stem": "student",
+          "prefix": null,
+          "phonetics": "/ʃtuˈdɛnt/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Feminine: Studentin. Borrowed from Latin. For school: Schüler."
+          },
+          "definitions": [
+            {
+              "text": "Person, die an einer Hochschule studiert",
+              "synonyms": ["Schüler", "Lernender"],
+              "examples": [
+                {
+                  "text": "Sie ist Studentin an der Harvard Universität.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "estudiante",
+          "article": "el/la",
+          "stem": "estudiant",
+          "prefix": null,
+          "phonetics": "/estuˈðjante/",
+          "languageSpecific": {
+            "usageNotes": "Common gender noun (el/la estudiante). Essential education vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Persona que cursa estudios",
+              "synonyms": ["alumno", "discípulo"],
+              "examples": [
+                {
+                  "text": "Ella es estudiante de medicina en Harvard.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "studente",
+          "article": "lo",
+          "stem": "student",
+          "prefix": null,
+          "phonetics": "/stuˈdɛnte/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Feminine: studentessa. Central to education system."
+          },
+          "definitions": [
+            {
+              "text": "Persona che frequenta una scuola o università",
+              "synonyms": ["allievo", "alunno"],
+              "examples": [
+                {
+                  "text": "Lei è una studentessa di medicina ad Harvard.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3200,
+        "cumulativeFrequency": 475000,
+        "entryDate": "2024-02-10T11:30:00.000Z",
+        "relatedTerms": [
+          "school",
+          "university",
+          "study",
+          "teacher",
+          "education"
+        ],
+        "source": "English Education Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Straße",
+        "language": "de",
+        "article": "die",
+        "stem": "straß",
+        "prefix": null,
+        "phonetics": "/ˈʃtʁaːsə/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Plural: Straßen. Essential urban vocabulary. Alternative spelling: Strasse."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_strasse_01",
+          "text": "A public road in a city or town, typically with houses and buildings on one or both sides",
+          "synonyms": ["Weg", "Gasse", "Allee"],
+          "examples": [
+            {
+              "text": "Die Straße ist sehr breit.",
+              "source": {
+                "title": "Urban Planning",
+                "publication": "Stadt & Verkehr",
+                "date": "2024-05-08T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Überqueren Sie die Straße vorsichtig.",
+              "source": null
+            },
+            {
+              "text": "Ich wohne in der Hauptstraße.",
+              "source": {
+                "title": "Address Guide",
+                "publication": "Leben in der Stadt",
+                "date": "2024-03-14T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "street",
+          "article": null,
+          "stem": "street",
+          "prefix": null,
+          "phonetics": "/striːt/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Used in addresses and urban navigation."
+          },
+          "definitions": [
+            {
+              "text": "A public road in a city or town",
+              "synonyms": ["road", "avenue", "lane"],
+              "examples": [
+                {
+                  "text": "The street is very wide.",
+                  "source": null
+                },
+                {
+                  "text": "I live on Main Street.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "calle",
+          "article": "la",
+          "stem": "call",
+          "prefix": null,
+          "phonetics": "/ˈkaʎe/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Essential for navigation and addresses in Spanish."
+          },
+          "definitions": [
+            {
+              "text": "Vía pública en una población",
+              "synonyms": ["vía", "avenida"],
+              "examples": [
+                {
+                  "text": "La calle es muy ancha.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "strada",
+          "article": "la",
+          "stem": "strad",
+          "prefix": null,
+          "phonetics": "/ˈstrada/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common in Italian cities and addresses."
+          },
+          "definitions": [
+            {
+              "text": "Via pubblica in una città",
+              "synonyms": ["via", "corso"],
+              "examples": [
+                {
+                  "text": "La strada è molto larga.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2680,
+        "cumulativeFrequency": 405000,
+        "entryDate": "2024-03-20T09:50:00.000Z",
+        "relatedTerms": ["Weg", "Verkehr", "Fußgänger", "Kreuzung", "Ampel"],
+        "source": "German Urban Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "dream",
+        "language": "en",
+        "article": null,
+        "stem": "dream",
+        "prefix": null,
+        "phonetics": "/driːm/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Also used as a verb (irregular: dream/dreamt/dreamt or dreamed)."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_dream_01",
+          "text": "A series of thoughts, images, and sensations occurring in a person's mind during sleep",
+          "synonyms": ["vision", "fantasy", "reverie"],
+          "examples": [
+            {
+              "text": "I had a strange dream last night.",
+              "source": {
+                "title": "Sleep Psychology",
+                "publication": "Mind Science",
+                "date": "2024-06-22T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Her dream is to become a doctor.",
+              "source": null
+            },
+            {
+              "text": "Dreams often reflect our subconscious thoughts.",
+              "source": {
+                "title": "Psychology of Dreams",
+                "publication": "Brain Research",
+                "date": "2024-04-16T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Traum",
+          "article": "der",
+          "stem": "traum",
+          "prefix": null,
+          "phonetics": "/tʁaʊm/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Plural: Träume. Related verb: träumen."
+          },
+          "definitions": [
+            {
+              "text": "Bilder und Gedanken während des Schlafs",
+              "synonyms": ["Vision", "Wunsch"],
+              "examples": [
+                {
+                  "text": "Ich hatte letzte Nacht einen seltsamen Traum.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "sueño",
+          "article": "el",
+          "stem": "sueñ",
+          "prefix": null,
+          "phonetics": "/ˈsweɲo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Also means 'sleep' or 'sleepiness' depending on context."
+          },
+          "definitions": [
+            {
+              "text": "Acto de soñar; representación imaginativa durante el sueño",
+              "synonyms": ["ensoñación", "visión"],
+              "examples": [
+                {
+                  "text": "Tuve un sueño extraño anoche.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "sogno",
+          "article": "il",
+          "stem": "sogn",
+          "prefix": null,
+          "phonetics": "/ˈsoɲɲo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Common in both literal and figurative contexts."
+          },
+          "definitions": [
+            {
+              "text": "Attività mentale durante il sonno",
+              "synonyms": ["visione", "fantasia"],
+              "examples": [
+                {
+                  "text": "Ho fatto un sogno strano ieri notte.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2340,
+        "cumulativeFrequency": 355000,
+        "entryDate": "2024-05-28T13:20:00.000Z",
+        "relatedTerms": ["sleep", "nightmare", "vision", "aspiration", "hope"],
+        "source": "English Psychology Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Küche",
+        "language": "de",
+        "article": "die",
+        "stem": "küch",
+        "prefix": null,
+        "phonetics": "/ˈkʏçə/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Plural: Küchen. Room in house and also means 'cuisine'."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_kueche_01",
+          "text": "A room or area where food is prepared and cooked",
+          "synonyms": ["Kochraum"],
+          "examples": [
+            {
+              "text": "Die Küche ist sehr modern eingerichtet.",
+              "source": {
+                "title": "Interior Design",
+                "publication": "Wohnen & Einrichten",
+                "date": "2024-07-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Ich koche gerne in meiner Küche.",
+              "source": null
+            },
+            {
+              "text": "Die Küche muss renoviert werden.",
+              "source": {
+                "title": "Home Renovation",
+                "publication": "Haus & Bau",
+                "date": "2024-05-20T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "kitchen",
+          "article": null,
+          "stem": "kitchen",
+          "prefix": null,
+          "phonetics": "/ˈkɪtʃɪn/",
+          "languageSpecific": {
+            "usageNotes": "Countable noun. Central room in most homes for food preparation."
+          },
+          "definitions": [
+            {
+              "text": "A room where food is prepared and cooked",
+              "synonyms": ["cookroom", "galley", "scullery"],
+              "examples": [
+                {
+                  "text": "The kitchen is very modern.",
+                  "source": null
+                },
+                {
+                  "text": "I love cooking in my kitchen.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "cocina",
+          "article": "la",
+          "stem": "cocin",
+          "prefix": null,
+          "phonetics": "/koˈθina/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Also means 'stove' or 'cuisine' depending on context."
+          },
+          "definitions": [
+            {
+              "text": "Habitación donde se prepara la comida",
+              "synonyms": ["cocinilla"],
+              "examples": [
+                {
+                  "text": "La cocina es muy moderna.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "cucina",
+          "article": "la",
+          "stem": "cucin",
+          "prefix": null,
+          "phonetics": "/kuˈtʃina/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Italian cuisine is world-famous, so this word is culturally significant."
+          },
+          "definitions": [
+            {
+              "text": "Stanza dove si prepara il cibo",
+              "synonyms": ["cucinetta"],
+              "examples": [
+                {
+                  "text": "La cucina è molto moderna.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1980,
+        "cumulativeFrequency": 295000,
+        "entryDate": "2024-04-10T10:25:00.000Z",
+        "relatedTerms": ["kochen", "Herd", "Essen", "Rezept", "Kochtopf"],
+        "source": "German Home Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "bridge",
+        "language": "en",
+        "article": null,
+        "stem": "bridg",
+        "prefix": null,
+        "phonetics": "/brɪdʒ/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable noun. Also used as verb meaning to connect or span."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_bridge_01",
+          "text": "A structure carrying a road, path, or railway across a river, valley, or other obstacle",
+          "synonyms": ["overpass", "viaduct", "span"],
+          "examples": [
+            {
+              "text": "The Golden Gate Bridge is in San Francisco.",
+              "source": {
+                "title": "Famous Landmarks",
+                "publication": "World Architecture",
+                "date": "2024-06-30T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "We walked across the old wooden bridge.",
+              "source": null
+            },
+            {
+              "text": "The bridge connects the two sides of the city.",
+              "source": {
+                "title": "Urban Infrastructure",
+                "publication": "City Planning",
+                "date": "2024-04-22T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Brücke",
+          "article": "die",
+          "stem": "brück",
+          "prefix": null,
+          "phonetics": "/ˈbʁʏkə/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Plural: Brücken. Important infrastructure element."
+          },
+          "definitions": [
+            {
+              "text": "Bauwerk zum Überqueren von Hindernissen",
+              "synonyms": ["Überführung", "Steg"],
+              "examples": [
+                {
+                  "text": "Die Brücke ist sehr alt.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "puente",
+          "article": "el",
+          "stem": "puent",
+          "prefix": null,
+          "phonetics": "/ˈpwente/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Important infrastructure vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Construcción sobre un río o depresión del terreno",
+              "synonyms": ["viaducto", "pasarela"],
+              "examples": [
+                {
+                  "text": "El puente conecta las dos ciudades.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "ponte",
+          "article": "il",
+          "stem": "pont",
+          "prefix": null,
+          "phonetics": "/ˈponte/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Italy has many famous historical bridges."
+          },
+          "definitions": [
+            {
+              "text": "Costruzione per attraversare un fiume o una valle",
+              "synonyms": ["viadotto", "cavalcavia"],
+              "examples": [
+                {
+                  "text": "Il ponte collega le due rive del fiume.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1520,
+        "cumulativeFrequency": 225000,
+        "entryDate": "2024-05-12T14:40:00.000Z",
+        "relatedTerms": [
+          "river",
+          "cross",
+          "connect",
+          "structure",
+          "engineering"
+        ],
+        "source": "English Infrastructure Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Regen",
+        "language": "de",
+        "article": "der",
+        "stem": "regen",
+        "prefix": null,
+        "phonetics": "/ˈʁeːɡən/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Masculine noun. No typical plural. Weather phenomenon, also used as verb 'regnen'."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_regen_01",
+          "text": "Water falling in drops from clouds in the sky",
+          "synonyms": ["Niederschlag", "Regenwetter"],
+          "examples": [
+            {
+              "text": "Der Regen hat endlich aufgehört.",
+              "source": {
+                "title": "Weather Report",
+                "publication": "Wetter Aktuell",
+                "date": "2024-08-05T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Wir brauchen dringend Regen.",
+              "source": null
+            },
+            {
+              "text": "Bei Regen bleiben wir zu Hause.",
+              "source": {
+                "title": "Daily Activities",
+                "publication": "Alltag & Leben",
+                "date": "2024-06-10T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "rain",
+          "article": null,
+          "stem": "rain",
+          "prefix": null,
+          "phonetics": "/reɪn/",
+          "languageSpecific": {
+            "usageNotes": "Uncountable noun. Also used as verb. Essential weather vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Water falling from clouds in drops",
+              "synonyms": ["rainfall", "precipitation", "shower"],
+              "examples": [
+                {
+                  "text": "The rain has finally stopped.",
+                  "source": null
+                },
+                {
+                  "text": "We desperately need rain.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "lluvia",
+          "article": "la",
+          "stem": "lluvi",
+          "prefix": null,
+          "phonetics": "/ˈʎuβja/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Essential weather term in Spanish-speaking regions."
+          },
+          "definitions": [
+            {
+              "text": "Agua que cae de las nubes",
+              "synonyms": ["precipitación", "aguacero"],
+              "examples": [
+                {
+                  "text": "La lluvia ha parado finalmente.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "pioggia",
+          "article": "la",
+          "stem": "piogg",
+          "prefix": null,
+          "phonetics": "/ˈpjɔddʒa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common weather phenomenon in Italy."
+          },
+          "definitions": [
+            {
+              "text": "Acqua che cade dalle nuvole",
+              "synonyms": ["precipitazione", "acquazzone"],
+              "examples": [
+                {
+                  "text": "La pioggia si è finalmente fermata.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2150,
+        "cumulativeFrequency": 320000,
+        "entryDate": "2024-03-08T11:15:00.000Z",
+        "relatedTerms": ["Wetter", "Wolke", "nass", "Regenschirm", "Gewitter"],
+        "source": "German Weather Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "celebrate",
+        "language": "en",
+        "article": null,
+        "stem": "celebrat",
+        "prefix": null,
+        "phonetics": "/ˈsɛlɪbreɪt/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular verb. Common in social and cultural contexts for marking special occasions."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_celebrate_01",
+          "text": "To acknowledge a significant or happy day or event with a social gathering or enjoyable activity",
+          "synonyms": ["commemorate", "observe", "honor", "rejoice"],
+          "examples": [
+            {
+              "text": "We will celebrate her birthday tomorrow.",
+              "source": {
+                "title": "Party Planning Guide",
+                "publication": "Event Life",
+                "date": "2024-07-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "They celebrated their anniversary in Paris.",
+              "source": null
+            },
+            {
+              "text": "How do you celebrate Christmas?",
+              "source": {
+                "title": "Cultural Traditions",
+                "publication": "World Customs",
+                "date": "2024-12-10T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "feiern",
+          "article": null,
+          "stem": "feier",
+          "prefix": null,
+          "phonetics": "/ˈfaɪɐn/",
+          "languageSpecific": {
+            "usageNotes": "Regular weak verb. Essential verb for social occasions and holidays."
+          },
+          "definitions": [
+            {
+              "text": "Ein Fest oder Ereignis begehen",
+              "synonyms": ["begehen", "zelebrieren"],
+              "examples": [
+                {
+                  "text": "Wir feiern morgen ihren Geburtstag.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "celebrar",
+          "article": null,
+          "stem": "celebr",
+          "prefix": null,
+          "phonetics": "/θeleˈβɾar/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ar verb. Very important in Spanish culture which has many celebrations."
+          },
+          "definitions": [
+            {
+              "text": "Conmemorar una fecha o acontecimiento con actos festivos",
+              "synonyms": ["festejar", "conmemorar"],
+              "examples": [
+                {
+                  "text": "Celebraremos su cumpleaños mañana.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "celebrare",
+          "article": null,
+          "stem": "celebr",
+          "prefix": null,
+          "phonetics": "/tʃeleˈbrare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Italy has rich tradition of celebrations and festivals."
+          },
+          "definitions": [
+            {
+              "text": "Festeggiare un evento importante",
+              "synonyms": ["festeggiare", "commemorare"],
+              "examples": [
+                {
+                  "text": "Celebreremo il suo compleanno domani.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2580,
+        "cumulativeFrequency": 385000,
+        "entryDate": "2024-06-20T15:30:00.000Z",
+        "relatedTerms": [
+          "party",
+          "festival",
+          "holiday",
+          "ceremony",
+          "commemorate"
+        ],
+        "source": "English Social Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Fluss",
+        "language": "de",
+        "article": "der",
+        "stem": "fluss",
+        "prefix": null,
+        "phonetics": "/flʊs/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Masculine noun. Plural: Flüsse (with umlaut). Important geographical feature."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_fluss_01",
+          "text": "A large natural stream of water flowing in a channel to the sea, a lake, or another river",
+          "synonyms": ["Strom", "Gewässer"],
+          "examples": [
+            {
+              "text": "Der Fluss fließt durch die Stadt.",
+              "source": {
+                "title": "Geography of Germany",
+                "publication": "Geographie Magazin",
+                "date": "2024-05-25T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Der Rhein ist ein wichtiger Fluss in Europa.",
+              "source": null
+            },
+            {
+              "text": "Wir schwimmen gerne im Fluss.",
+              "source": {
+                "title": "Summer Activities",
+                "publication": "Freizeit & Sport",
+                "date": "2024-07-08T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "river",
+          "article": null,
+          "stem": "river",
+          "prefix": null,
+          "phonetics": "/ˈrɪvər/",
+          "languageSpecific": {
+            "usageNotes": "Countable noun. Major geographical feature and water source."
+          },
+          "definitions": [
+            {
+              "text": "A large natural stream of water",
+              "synonyms": ["stream", "waterway", "tributary"],
+              "examples": [
+                {
+                  "text": "The river flows through the city.",
+                  "source": null
+                },
+                {
+                  "text": "The Rhine is an important river in Europe.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "río",
+          "article": "el",
+          "stem": "rí",
+          "prefix": null,
+          "phonetics": "/ˈrio/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Essential geographical term in Spanish."
+          },
+          "definitions": [
+            {
+              "text": "Corriente natural de agua que fluye continuamente",
+              "synonyms": ["cauce", "corriente"],
+              "examples": [
+                {
+                  "text": "El río fluye a través de la ciudad.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "fiume",
+          "article": "il",
+          "stem": "fium",
+          "prefix": null,
+          "phonetics": "/ˈfjume/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Italy has important rivers like Po, Arno, and Tiber."
+          },
+          "definitions": [
+            {
+              "text": "Corso d'acqua naturale che scorre verso il mare",
+              "synonyms": ["corso d'acqua", "corrente"],
+              "examples": [
+                {
+                  "text": "Il fiume scorre attraverso la città.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1720,
+        "cumulativeFrequency": 260000,
+        "entryDate": "2024-04-15T12:05:00.000Z",
+        "relatedTerms": ["Wasser", "See", "Bach", "fließen", "Ufer"],
+        "source": "German Geography Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "breakfast",
+        "language": "en",
+        "article": null,
+        "stem": "breakfast",
+        "prefix": null,
+        "phonetics": "/ˈbrɛkfəst/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable/uncountable noun. First meal of the day. Can also be used as verb."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_breakfast_01",
+          "text": "The first meal eaten in the morning",
+          "synonyms": ["morning meal"],
+          "examples": [
+            {
+              "text": "I always eat breakfast before work.",
+              "source": {
+                "title": "Healthy Eating Habits",
+                "publication": "Nutrition Today",
+                "date": "2024-05-30T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "What did you have for breakfast?",
+              "source": null
+            },
+            {
+              "text": "Breakfast is the most important meal of the day.",
+              "source": {
+                "title": "Daily Nutrition",
+                "publication": "Health Magazine",
+                "date": "2024-03-28T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Frühstück",
+          "article": "das",
+          "stem": "frühstück",
+          "prefix": null,
+          "phonetics": "/ˈfʁyːʃtʏk/",
+          "languageSpecific": {
+            "usageNotes": "Neuter noun. Compound word: früh (early) + Stück (piece). Related verb: frühstücken."
+          },
+          "definitions": [
+            {
+              "text": "Erste Mahlzeit des Tages",
+              "synonyms": ["Morgenmahl"],
+              "examples": [
+                {
+                  "text": "Ich esse immer Frühstück vor der Arbeit.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "desayuno",
+          "article": "el",
+          "stem": "desayun",
+          "prefix": null,
+          "phonetics": "/desaˈʝuno/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Related verb: desayunar. Important meal in Spanish culture."
+          },
+          "definitions": [
+            {
+              "text": "Primera comida del día",
+              "synonyms": ["almuerzo matutino"],
+              "examples": [
+                {
+                  "text": "Siempre como desayuno antes del trabajo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "colazione",
+          "article": "la",
+          "stem": "colazion",
+          "prefix": null,
+          "phonetics": "/kolatˈtsjone/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Italian breakfast often includes cappuccino and cornetto."
+          },
+          "definitions": [
+            {
+              "text": "Primo pasto della giornata",
+              "synonyms": ["prima colazione"],
+              "examples": [
+                {
+                  "text": "Faccio sempre colazione prima del lavoro.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1890,
+        "cumulativeFrequency": 285000,
+        "entryDate": "2024-06-05T09:40:00.000Z",
+        "relatedTerms": ["meal", "morning", "lunch", "dinner", "food"],
+        "source": "English Food Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Wolke",
+        "language": "de",
+        "article": "die",
+        "stem": "wolk",
+        "prefix": null,
+        "phonetics": "/ˈvɔlkə/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Plural: Wolken. Weather and sky phenomenon."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_wolke_01",
+          "text": "A visible mass of condensed water vapor floating in the atmosphere",
+          "synonyms": ["Gewölk"],
+          "examples": [
+            {
+              "text": "Am Himmel sind viele Wolken.",
+              "source": {
+                "title": "Weather Observation",
+                "publication": "Meteorologie Journal",
+                "date": "2024-07-20T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Wolken werden dunkler.",
+              "source": null
+            },
+            {
+              "text": "Keine einzige Wolke war am Himmel.",
+              "source": {
+                "title": "Perfect Day",
+                "publication": "Natur Magazin",
+                "date": "2024-06-15T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "cloud",
+          "article": null,
+          "stem": "cloud",
+          "prefix": null,
+          "phonetics": "/klaʊd/",
+          "languageSpecific": {
+            "usageNotes": "Countable noun. Also used in computing (cloud storage, cloud computing)."
+          },
+          "definitions": [
+            {
+              "text": "A visible mass of water vapor in the sky",
+              "synonyms": ["vapor", "mist"],
+              "examples": [
+                {
+                  "text": "There are many clouds in the sky.",
+                  "source": null
+                },
+                {
+                  "text": "The clouds are getting darker.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "nube",
+          "article": "la",
+          "stem": "nub",
+          "prefix": null,
+          "phonetics": "/ˈnuβe/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Essential weather vocabulary in Spanish."
+          },
+          "definitions": [
+            {
+              "text": "Masa de vapor de agua suspendida en la atmósfera",
+              "synonyms": ["nubosidad"],
+              "examples": [
+                {
+                  "text": "Hay muchas nubes en el cielo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "nuvola",
+          "article": "la",
+          "stem": "nuvol",
+          "prefix": null,
+          "phonetics": "/ˈnuvola/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common in weather descriptions and poetry."
+          },
+          "definitions": [
+            {
+              "text": "Massa di vapore acqueo sospesa nell'atmosfera",
+              "synonyms": ["nube", "nuvolaglia"],
+              "examples": [
+                {
+                  "text": "Ci sono molte nuvole nel cielo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1650,
+        "cumulativeFrequency": 245000,
+        "entryDate": "2024-05-18T10:50:00.000Z",
+        "relatedTerms": ["Himmel", "Wetter", "Regen", "bewölkt", "Gewitter"],
+        "source": "German Weather Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "exercise",
+        "language": "en",
+        "article": null,
+        "stem": "exercis",
+        "prefix": null,
+        "phonetics": "/ˈɛksərsaɪz/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Countable/uncountable noun. Also used as verb. Related to physical activity and practice."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_exercise_01",
+          "text": "Activity requiring physical effort, carried out to sustain or improve health and fitness",
+          "synonyms": ["workout", "training", "activity", "practice"],
+          "examples": [
+            {
+              "text": "Regular exercise is important for good health.",
+              "source": {
+                "title": "Health and Fitness Guide",
+                "publication": "Wellness Today",
+                "date": "2024-08-12T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "I do exercise every morning.",
+              "source": null
+            },
+            {
+              "text": "What kind of exercise do you prefer?",
+              "source": {
+                "title": "Fitness Survey",
+                "publication": "Sports Magazine",
+                "date": "2024-06-28T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "de",
+          "text": "Übung",
+          "article": "die",
+          "stem": "übung",
+          "prefix": null,
+          "phonetics": "/ˈyːbʊŋ/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. For physical exercise, also 'Sport' or 'Training'. Related verb: üben."
+          },
+          "definitions": [
+            {
+              "text": "Körperliche Aktivität zur Fitness oder Praktik einer Fertigkeit",
+              "synonyms": ["Training", "Sport", "Praxis"],
+              "examples": [
+                {
+                  "text": "Regelmäßige Übung ist wichtig für die Gesundheit.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "ejercicio",
+          "article": "el",
+          "stem": "ejercici",
+          "prefix": null,
+          "phonetics": "/exerˈθiθjo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Essential for health and fitness vocabulary."
+          },
+          "definitions": [
+            {
+              "text": "Actividad física para mantener o mejorar la salud",
+              "synonyms": ["entrenamiento", "práctica"],
+              "examples": [
+                {
+                  "text": "El ejercicio regular es importante para la salud.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "esercizio",
+          "article": "l'",
+          "stem": "esercizi",
+          "prefix": null,
+          "phonetics": "/ezerˈtʃitsjo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Used for physical exercise and practice of skills."
+          },
+          "definitions": [
+            {
+              "text": "Attività fisica per mantenersi in forma",
+              "synonyms": ["allenamento", "pratica"],
+              "examples": [
+                {
+                  "text": "L'esercizio regolare è importante per la salute.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2280,
+        "cumulativeFrequency": 340000,
+        "entryDate": "2024-07-22T13:55:00.000Z",
+        "relatedTerms": ["fitness", "workout", "training", "health", "sport"],
+        "source": "English Health Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "playa",
+        "language": "es",
+        "article": "la",
+        "stem": "play",
+        "prefix": null,
+        "phonetics": "/ˈplaʝa/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Essential coastal and vacation vocabulary in Spanish-speaking countries."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_playa_01",
+          "text": "A pebbly or sandy shore, especially by the ocean between high and low water marks",
+          "synonyms": ["costa", "orilla", "litoral"],
+          "examples": [
+            {
+              "text": "Vamos a la playa este fin de semana.",
+              "source": {
+                "title": "Vacation Planning",
+                "publication": "Viajes y Turismo",
+                "date": "2024-06-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "La playa está llena de turistas en verano.",
+              "source": null
+            },
+            {
+              "text": "Me encanta caminar por la playa al atardecer.",
+              "source": {
+                "title": "Coastal Living",
+                "publication": "Vida Marina",
+                "date": "2024-07-22T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "beach",
+          "article": null,
+          "stem": "beach",
+          "prefix": null,
+          "phonetics": "/biːtʃ/",
+          "languageSpecific": {
+            "usageNotes": "Countable noun. Popular vacation destination and coastal feature."
+          },
+          "definitions": [
+            {
+              "text": "A sandy or pebbly shore by the sea",
+              "synonyms": ["shore", "coast", "seaside"],
+              "examples": [
+                {
+                  "text": "We're going to the beach this weekend.",
+                  "source": null
+                },
+                {
+                  "text": "I love walking on the beach at sunset.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "de",
+          "text": "Strand",
+          "article": "der",
+          "stem": "strand",
+          "prefix": null,
+          "phonetics": "/ʃtʁant/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Plural: Strände. Popular vacation destination in German culture."
+          },
+          "definitions": [
+            {
+              "text": "Sandiger oder kiesiger Uferbereich am Meer",
+              "synonyms": ["Küste", "Ufer"],
+              "examples": [
+                {
+                  "text": "Wir fahren am Wochenende an den Strand.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "spiaggia",
+          "article": "la",
+          "stem": "spiaggi",
+          "prefix": null,
+          "phonetics": "/ˈspjaddʒa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Italy has beautiful beaches along its long coastline."
+          },
+          "definitions": [
+            {
+              "text": "Zona costiera sabbiosa o ciottolosa",
+              "synonyms": ["lido", "riva"],
+              "examples": [
+                {
+                  "text": "Andiamo in spiaggia questo fine settimana.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2150,
+        "cumulativeFrequency": 325000,
+        "entryDate": "2024-06-08T14:25:00.000Z",
+        "relatedTerms": ["mar", "arena", "vacaciones", "costa", "verano"],
+        "source": "Spanish Vacation Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "famiglia",
+        "language": "it",
+        "article": "la",
+        "stem": "famigli",
+        "prefix": null,
+        "phonetics": "/faˈmiʎʎa/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Central concept in Italian culture. Family is extremely important in Italian society."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_famiglia_01",
+          "text": "A group consisting of parents and children living together in a household",
+          "synonyms": ["parenti", "nucleo familiare", "casata"],
+          "examples": [
+            {
+              "text": "La famiglia è molto importante nella cultura italiana.",
+              "source": {
+                "title": "Italian Culture",
+                "publication": "Cultura Italiana",
+                "date": "2024-05-12T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Domenica pranziamo con tutta la famiglia.",
+              "source": null
+            },
+            {
+              "text": "La mia famiglia vive a Roma.",
+              "source": {
+                "title": "Personal Stories",
+                "publication": "Vita Quotidiana",
+                "date": "2024-04-20T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "family",
+          "article": null,
+          "stem": "famil",
+          "prefix": null,
+          "phonetics": "/ˈfæməli/",
+          "languageSpecific": {
+            "usageNotes": "Countable noun. Can refer to nuclear or extended family. Fundamental social unit."
+          },
+          "definitions": [
+            {
+              "text": "A group of people related by blood or marriage",
+              "synonyms": ["relatives", "kin", "household"],
+              "examples": [
+                {
+                  "text": "Family is very important in Italian culture.",
+                  "source": null
+                },
+                {
+                  "text": "My family lives in Rome.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "de",
+          "text": "Familie",
+          "article": "die",
+          "stem": "famili",
+          "prefix": null,
+          "phonetics": "/faˈmiːli̯ə/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Central social unit in German society. Related terms include Verwandtschaft."
+          },
+          "definitions": [
+            {
+              "text": "Gruppe von verwandten Personen",
+              "synonyms": ["Verwandtschaft", "Angehörige"],
+              "examples": [
+                {
+                  "text": "Meine Familie lebt in Rom.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "familia",
+          "article": "la",
+          "stem": "famili",
+          "prefix": null,
+          "phonetics": "/faˈmilja/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Core value in Hispanic culture. Extended family often very close."
+          },
+          "definitions": [
+            {
+              "text": "Grupo de personas emparentadas",
+              "synonyms": ["parientes", "hogar"],
+              "examples": [
+                {
+                  "text": "La familia es muy importante en la cultura italiana.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3850,
+        "cumulativeFrequency": 580000,
+        "entryDate": "2024-05-05T11:40:00.000Z",
+        "relatedTerms": ["genitori", "figli", "parenti", "casa", "tradizione"],
+        "source": "Italian Social Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "bailar",
+        "language": "es",
+        "article": null,
+        "stem": "bail",
+        "prefix": null,
+        "phonetics": "/baiˈlaɾ/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular -ar verb. Essential verb in Spanish culture which has rich dancing traditions."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_bailar_01",
+          "text": "To move rhythmically to music, typically following a set sequence of steps",
+          "synonyms": ["danzar", "moverse al ritmo"],
+          "examples": [
+            {
+              "text": "Me encanta bailar salsa.",
+              "source": {
+                "title": "Latin Dance Guide",
+                "publication": "Baile Latino",
+                "date": "2024-07-10T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "¿Sabes bailar flamenco?",
+              "source": null
+            },
+            {
+              "text": "Ellos bailan muy bien juntos.",
+              "source": {
+                "title": "Dance Competition",
+                "publication": "Mundo del Baile",
+                "date": "2024-06-25T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "dance",
+          "article": null,
+          "stem": "danc",
+          "prefix": null,
+          "phonetics": "/dæns/",
+          "languageSpecific": {
+            "usageNotes": "Regular verb. Can also be used as noun. Universal form of expression and entertainment."
+          },
+          "definitions": [
+            {
+              "text": "To move rhythmically to music",
+              "synonyms": ["groove", "sway", "boogie"],
+              "examples": [
+                {
+                  "text": "I love to dance salsa.",
+                  "source": null
+                },
+                {
+                  "text": "They dance very well together.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "de",
+          "text": "tanzen",
+          "article": null,
+          "stem": "tanz",
+          "prefix": null,
+          "phonetics": "/ˈtant͡sən/",
+          "languageSpecific": {
+            "usageNotes": "Regular weak verb. Germany has strong tradition of ballroom dancing and folk dances."
+          },
+          "definitions": [
+            {
+              "text": "Sich rhythmisch zur Musik bewegen",
+              "synonyms": ["sich bewegen"],
+              "examples": [
+                {
+                  "text": "Ich tanze gerne Salsa.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "ballare",
+          "article": null,
+          "stem": "ball",
+          "prefix": null,
+          "phonetics": "/balˈlare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Italy has rich tradition of classical and folk dancing."
+          },
+          "definitions": [
+            {
+              "text": "Muoversi a ritmo di musica",
+              "synonyms": ["danzare"],
+              "examples": [
+                {
+                  "text": "Amo ballare la salsa.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2450,
+        "cumulativeFrequency": 370000,
+        "entryDate": "2024-07-02T16:15:00.000Z",
+        "relatedTerms": ["música", "ritmo", "fiesta", "danza", "baile"],
+        "source": "Spanish Cultural Verbs 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "vino",
+        "language": "it",
+        "article": "il",
+        "stem": "vin",
+        "prefix": null,
+        "phonetics": "/ˈvino/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Masculine noun. Italy is world-famous for wine production. Central to Italian cuisine and culture."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_vino_01",
+          "text": "An alcoholic drink made from fermented grape juice",
+          "synonyms": ["nettare", "bevanda alcolica"],
+          "examples": [
+            {
+              "text": "Il vino italiano è famoso in tutto il mondo.",
+              "source": {
+                "title": "Italian Wine Guide",
+                "publication": "Enologia Italiana",
+                "date": "2024-08-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Prendiamo un bicchiere di vino rosso?",
+              "source": null
+            },
+            {
+              "text": "Questo vino ha un sapore eccellente.",
+              "source": {
+                "title": "Wine Tasting",
+                "publication": "Guida Gastronomica",
+                "date": "2024-06-05T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "wine",
+          "article": null,
+          "stem": "wine",
+          "prefix": null,
+          "phonetics": "/waɪn/",
+          "languageSpecific": {
+            "usageNotes": "Countable/uncountable noun. Can refer to type of wine or wine in general."
+          },
+          "definitions": [
+            {
+              "text": "An alcoholic beverage made from fermented grapes",
+              "synonyms": ["vintage", "vino"],
+              "examples": [
+                {
+                  "text": "Italian wine is famous worldwide.",
+                  "source": null
+                },
+                {
+                  "text": "Shall we have a glass of red wine?",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "de",
+          "text": "Wein",
+          "article": "der",
+          "stem": "wein",
+          "prefix": null,
+          "phonetics": "/vaɪn/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Germany also has strong wine-making tradition, especially white wines."
+          },
+          "definitions": [
+            {
+              "text": "Alkoholisches Getränk aus vergorenem Traubensaft",
+              "synonyms": ["Rebensaft"],
+              "examples": [
+                {
+                  "text": "Italienischer Wein ist weltweit berühmt.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "vino",
+          "article": "el",
+          "stem": "vin",
+          "prefix": null,
+          "phonetics": "/ˈbino/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Spain is also major wine producer with regions like Rioja and Ribera del Duero."
+          },
+          "definitions": [
+            {
+              "text": "Bebida alcohólica procedente de la fermentación de uvas",
+              "synonyms": ["caldo"],
+              "examples": [
+                {
+                  "text": "El vino italiano es famoso en todo el mundo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2680,
+        "cumulativeFrequency": 405000,
+        "entryDate": "2024-08-08T10:30:00.000Z",
+        "relatedTerms": ["uva", "bottiglia", "bicchiere", "rosso", "bianco"],
+        "source": "Italian Culinary Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "mercado",
+        "language": "es",
+        "article": "el",
+        "stem": "mercad",
+        "prefix": null,
+        "phonetics": "/meɾˈkaðo/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Masculine noun. Markets are central to Spanish and Latin American culture and daily life."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_mercado_01",
+          "text": "A place where people regularly gather for the purchase and sale of provisions, livestock, and other goods",
+          "synonyms": ["plaza", "feria", "bazar"],
+          "examples": [
+            {
+              "text": "Voy al mercado cada sábado por la mañana.",
+              "source": {
+                "title": "Local Markets Guide",
+                "publication": "Vida Local",
+                "date": "2024-07-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "El mercado está lleno de frutas y verduras frescas.",
+              "source": null
+            },
+            {
+              "text": "En el mercado se pueden encontrar productos artesanales.",
+              "source": {
+                "title": "Shopping Guide",
+                "publication": "Comercio y Tradición",
+                "date": "2024-05-28T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "market",
+          "article": null,
+          "stem": "market",
+          "prefix": null,
+          "phonetics": "/ˈmɑːrkɪt/",
+          "languageSpecific": {
+            "usageNotes": "Countable noun. Can refer to physical marketplace or abstract market concept in economics."
+          },
+          "definitions": [
+            {
+              "text": "A place where goods are bought and sold",
+              "synonyms": ["marketplace", "bazaar", "fair"],
+              "examples": [
+                {
+                  "text": "I go to the market every Saturday morning.",
+                  "source": null
+                },
+                {
+                  "text": "The market is full of fresh fruits and vegetables.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "de",
+          "text": "Markt",
+          "article": "der",
+          "stem": "markt",
+          "prefix": null,
+          "phonetics": "/maʁkt/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Weekly markets (Wochenmarkt) are common in German cities."
+          },
+          "definitions": [
+            {
+              "text": "Ort zum Kauf und Verkauf von Waren",
+              "synonyms": ["Marktplatz", "Basar"],
+              "examples": [
+                {
+                  "text": "Ich gehe jeden Samstag auf den Markt.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "mercato",
+          "article": "il",
+          "stem": "mercat",
+          "prefix": null,
+          "phonetics": "/merˈkato/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Italian markets are famous for fresh produce and local products."
+          },
+          "definitions": [
+            {
+              "text": "Luogo dove si vendono e si comprano merci",
+              "synonyms": ["piazza del mercato", "fiera"],
+              "examples": [
+                {
+                  "text": "Vado al mercato ogni sabato mattina.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2350,
+        "cumulativeFrequency": 355000,
+        "entryDate": "2024-07-20T13:45:00.000Z",
+        "relatedTerms": [
+          "comprar",
+          "vender",
+          "productos",
+          "tienda",
+          "comercio"
+        ],
+        "source": "Spanish Commerce Vocabulary 2024"
+      }
     }
   ]
 }
