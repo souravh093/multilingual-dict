@@ -1,5 +1,6 @@
 [
   {
+    "wordId": "w1",
     "language": "it",
     "text": "Casa",
     "article": "la",
@@ -14,6 +15,7 @@
     ]
   },
   {
+    "wordId": "w2",
     "language": "it",
     "text": "Auto",
     "article": "l'",
@@ -28,6 +30,7 @@
     ]
   },
   {
+    "wordId": "w3",
     "language": "it",
     "text": "Libro",
     "article": "il",

@@ -10,7 +10,7 @@
     "prisma:generate": "npx prisma generate",
     "prisma:push": "npx prisma db push",
     "seed": "ts-node --transpile-only scripts/seed.ts",
-    "migrate": "ts-node --transpile-only scripts/migrate.ts",
+    "migrate": "ts-node --transpile-only src/scripts/migrate.ts",
     "create-indexes": "ts-node --transpile-only scripts/create-indexes.ts",
     "bench": "ts-node --transpile-only bench/queries.ts"
   },
