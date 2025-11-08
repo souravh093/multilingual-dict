@@ -1,0 +1,1882 @@
+{
+  "words": [
+    {
+      "baseWord": {
+        "text": "Haus",
+        "language": "de",
+        "article": "das",
+        "stem": "haus",
+        "prefix": null,
+        "phonetics": "/haʊs/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Common noun used for buildings where people live. Takes neuter article 'das'."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_haus_01",
+          "text": "A building for human habitation, especially one that is a single-family dwelling",
+          "synonyms": ["Gebäude", "Wohnhaus", "Heim"],
+          "examples": [
+            {
+              "text": "Wir haben ein neues Haus gekauft.",
+              "source": {
+                "title": "German Daily Conversations",
+                "publication": "Language Learning Press",
+                "date": "2024-03-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Das Haus hat drei Stockwerke.",
+              "source": {
+                "title": "Real Estate Magazine",
+                "publication": "Immobilien Heute",
+                "date": "2024-06-20T00:00:00.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "definitionId": "def_haus_02",
+          "text": "A family or dynasty",
+          "synonyms": ["Familie", "Dynastie"],
+          "examples": [
+            {
+              "text": "Das Haus Habsburg regierte jahrhundertelang.",
+              "source": {
+                "title": "European History",
+                "publication": "Historical Review",
+                "date": "2023-11-10T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "house",
+          "article": null,
+          "stem": "hous",
+          "prefix": null,
+          "phonetics": "/haʊs/",
+          "languageSpecific": {
+            "usageNotes": "Common English noun. Can also be used as a verb meaning 'to provide shelter'."
+          },
+          "definitions": [
+            {
+              "text": "A building for human habitation",
+              "synonyms": ["home", "residence", "dwelling"],
+              "examples": [
+                {
+                  "text": "They bought a beautiful house in the countryside.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "casa",
+          "article": "la",
+          "stem": "cas",
+          "prefix": null,
+          "phonetics": "/ˈkasa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun in Spanish. Very common in everyday conversation."
+          },
+          "definitions": [
+            {
+              "text": "Edificio para habitar",
+              "synonyms": ["hogar", "vivienda", "domicilio"],
+              "examples": [
+                {
+                  "text": "Mi casa está cerca del parque.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1250,
+        "cumulativeFrequency": 98500,
+        "entryDate": "2024-01-15T10:30:00.000Z",
+        "relatedTerms": ["Wohnung", "Gebäude", "Zuhause", "Eigenheim"],
+        "source": "German Language Dictionary v2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "laufen",
+        "language": "de",
+        "article": null,
+        "stem": "lauf",
+        "prefix": null,
+        "phonetics": "/ˈlaʊfən/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Strong verb. Conjugates irregularly: läuft, lief, gelaufen. Commonly used for walking, running, and functioning."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_laufen_01",
+          "text": "To move at a speed faster than a walk by moving the feet in rapid succession",
+          "synonyms": ["rennen", "joggen", "sprinten"],
+          "examples": [
+            {
+              "text": "Ich laufe jeden Morgen im Park.",
+              "source": {
+                "title": "Fitness and Health",
+                "publication": "Gesund Leben Magazin",
+                "date": "2024-05-12T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie läuft sehr schnell.",
+              "source": null
+            }
+          ]
+        },
+        {
+          "definitionId": "def_laufen_02",
+          "text": "To function or operate properly",
+          "synonyms": ["funktionieren", "arbeiten"],
+          "examples": [
+            {
+              "text": "Der Motor läuft einwandfrei.",
+              "source": {
+                "title": "Automotive Maintenance",
+                "publication": "Auto Technik",
+                "date": "2024-02-28T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "run",
+          "article": null,
+          "stem": "run",
+          "prefix": null,
+          "phonetics": "/rʌn/",
+          "languageSpecific": {
+            "usageNotes": "Irregular verb: run, ran, run. Multiple meanings including movement and operation."
+          },
+          "definitions": [
+            {
+              "text": "To move swiftly on foot",
+              "synonyms": ["sprint", "jog", "dash"],
+              "examples": [
+                {
+                  "text": "I run every morning before breakfast.",
+                  "source": null
+                }
+              ]
+            },
+            {
+              "text": "To operate or function",
+              "synonyms": ["operate", "function", "work"],
+              "examples": [
+                {
+                  "text": "The engine runs smoothly.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "correre",
+          "article": null,
+          "stem": "corr",
+          "prefix": null,
+          "phonetics": "/ˈkorrere/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ere verb. Commonly used in sports and everyday contexts."
+          },
+          "definitions": [
+            {
+              "text": "Muoversi velocemente con le gambe",
+              "synonyms": ["scattare", "sfrecciare"],
+              "examples": [
+                {
+                  "text": "Corro nel parco ogni giorno.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 890,
+        "cumulativeFrequency": 125000,
+        "entryDate": "2024-01-20T14:15:00.000Z",
+        "relatedTerms": ["gehen", "rennen", "spazieren", "wandern"],
+        "source": "German Verb Dictionary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "schön",
+        "language": "de",
+        "article": null,
+        "stem": "schön",
+        "prefix": null,
+        "phonetics": "/ʃøːn/",
+        "wordType": "ADJECTIVE",
+        "languageSpecific": {
+          "usageNotes": "Common adjective meaning beautiful or nice. Can be declined based on gender, case, and number."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_schoen_01",
+          "text": "Pleasing to the eye or mind; aesthetically attractive",
+          "synonyms": ["hübsch", "wunderschön", "attraktiv", "herrlich"],
+          "examples": [
+            {
+              "text": "Das ist ein schönes Kleid.",
+              "source": {
+                "title": "Fashion Trends",
+                "publication": "Mode Heute",
+                "date": "2024-04-10T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Wir hatten einen schönen Tag am Strand.",
+              "source": {
+                "title": "Travel Diary",
+                "publication": "Reise Welt",
+                "date": "2024-07-05T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Aussicht von hier ist wirklich schön.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "beautiful",
+          "article": null,
+          "stem": "beauti",
+          "prefix": null,
+          "phonetics": "/ˈbjuːtɪfʊl/",
+          "languageSpecific": {
+            "usageNotes": "Highly versatile adjective used to describe aesthetic appeal in various contexts."
+          },
+          "definitions": [
+            {
+              "text": "Pleasing the senses or mind aesthetically",
+              "synonyms": ["lovely", "gorgeous", "pretty", "stunning"],
+              "examples": [
+                {
+                  "text": "She wore a beautiful dress to the party.",
+                  "source": null
+                },
+                {
+                  "text": "What a beautiful sunset!",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "hermoso",
+          "article": null,
+          "stem": "hermos",
+          "prefix": null,
+          "phonetics": "/erˈmoso/",
+          "languageSpecific": {
+            "usageNotes": "Adjective that agrees in gender and number. Hermoso (masculine), hermosa (feminine)."
+          },
+          "definitions": [
+            {
+              "text": "Que tiene belleza",
+              "synonyms": ["bello", "bonito", "precioso", "lindo"],
+              "examples": [
+                {
+                  "text": "Es un día hermoso para caminar.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "bello",
+          "article": null,
+          "stem": "bell",
+          "prefix": null,
+          "phonetics": "/ˈbɛllo/",
+          "languageSpecific": {
+            "usageNotes": "Adjective with irregular forms: bel, bell', bella, bei, begli, belle depending on context."
+          },
+          "definitions": [
+            {
+              "text": "Di aspetto gradevole",
+              "synonyms": ["carino", "splendido", "magnifico"],
+              "examples": [
+                {
+                  "text": "Che bel panorama!",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2100,
+        "cumulativeFrequency": 156000,
+        "entryDate": "2024-02-01T09:45:00.000Z",
+        "relatedTerms": ["hübsch", "attraktiv", "ansehnlich", "prächtig"],
+        "source": "German Adjective Reference 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "mit",
+        "language": "de",
+        "article": null,
+        "stem": "mit",
+        "prefix": null,
+        "phonetics": "/mɪt/",
+        "wordType": "PREPOSITION",
+        "languageSpecific": {
+          "usageNotes": "Preposition that takes the dative case. Used to express accompaniment, means, or manner."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_mit_01",
+          "text": "Accompanied by; in the company of",
+          "synonyms": ["zusammen mit", "gemeinsam mit"],
+          "examples": [
+            {
+              "text": "Ich gehe mit meiner Schwester ins Kino.",
+              "source": {
+                "title": "German Grammar in Use",
+                "publication": "Language Press",
+                "date": "2024-03-08T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Kommst du mit mir?",
+              "source": null
+            }
+          ]
+        },
+        {
+          "definitionId": "def_mit_02",
+          "text": "By means of; using",
+          "synonyms": ["mittels", "durch"],
+          "examples": [
+            {
+              "text": "Ich schreibe mit einem Bleistift.",
+              "source": null
+            },
+            {
+              "text": "Er fährt mit dem Bus zur Arbeit.",
+              "source": {
+                "title": "Daily German Conversations",
+                "publication": "Speak German Today",
+                "date": "2024-01-25T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "with",
+          "article": null,
+          "stem": "with",
+          "prefix": null,
+          "phonetics": "/wɪð/",
+          "languageSpecific": {
+            "usageNotes": "Extremely common preposition with multiple uses including accompaniment, means, and possession."
+          },
+          "definitions": [
+            {
+              "text": "Accompanied by; in the company of",
+              "synonyms": ["alongside", "together with"],
+              "examples": [
+                {
+                  "text": "I'm going to the movies with my sister.",
+                  "source": null
+                }
+              ]
+            },
+            {
+              "text": "By means of; using",
+              "synonyms": ["by", "using", "through"],
+              "examples": [
+                {
+                  "text": "I write with a pencil.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "con",
+          "article": null,
+          "stem": "con",
+          "prefix": null,
+          "phonetics": "/kon/",
+          "languageSpecific": {
+            "usageNotes": "Preposition that combines with 'mí' to form 'conmigo' and with 'ti' to form 'contigo'."
+          },
+          "definitions": [
+            {
+              "text": "En compañía de",
+              "synonyms": ["junto a", "junto con"],
+              "examples": [
+                {
+                  "text": "Voy al cine con mi hermana.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 5600,
+        "cumulativeFrequency": 890000,
+        "entryDate": "2024-01-10T11:20:00.000Z",
+        "relatedTerms": ["bei", "zu", "an", "in"],
+        "source": "German Preposition Dictionary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Freiheit",
+        "language": "de",
+        "article": "die",
+        "stem": "freiheit",
+        "prefix": null,
+        "phonetics": "/ˈfʁaɪhaɪt/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Abstract feminine noun. Forms compound words like Meinungsfreiheit (freedom of speech), Pressefreiheit (press freedom)."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_freiheit_01",
+          "text": "The power or right to act, speak, or think as one wants without hindrance or restraint",
+          "synonyms": ["Unabhängigkeit", "Autonomie", "Selbstbestimmung"],
+          "examples": [
+            {
+              "text": "Die Freiheit der Meinungsäußerung ist ein Grundrecht.",
+              "source": {
+                "title": "Constitutional Law",
+                "publication": "Rechtswissenschaft Journal",
+                "date": "2024-02-15T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Jeder Mensch hat das Recht auf Freiheit.",
+              "source": {
+                "title": "Human Rights Declaration",
+                "publication": "UN Documents",
+                "date": "2023-12-10T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die persönliche Freiheit ist sehr wichtig.",
+              "source": null
+            }
+          ]
+        },
+        {
+          "definitionId": "def_freiheit_02",
+          "text": "The state of not being imprisoned or enslaved",
+          "synonyms": ["Befreiung"],
+          "examples": [
+            {
+              "text": "Nach zehn Jahren erlangte er endlich seine Freiheit wieder.",
+              "source": {
+                "title": "Historical Narratives",
+                "publication": "Geschichte Heute",
+                "date": "2024-04-20T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "freedom",
+          "article": null,
+          "stem": "free",
+          "prefix": null,
+          "phonetics": "/ˈfriːdəm/",
+          "languageSpecific": {
+            "usageNotes": "Abstract noun with political, philosophical, and personal connotations. Often paired with 'liberty'."
+          },
+          "definitions": [
+            {
+              "text": "The power or right to act, speak, or think freely",
+              "synonyms": ["liberty", "independence", "autonomy"],
+              "examples": [
+                {
+                  "text": "Freedom of speech is a fundamental right.",
+                  "source": null
+                },
+                {
+                  "text": "Everyone deserves freedom and dignity.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "libertad",
+          "article": "la",
+          "stem": "libert",
+          "prefix": null,
+          "phonetics": "/liβerˈtað/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Central concept in political and philosophical discourse."
+          },
+          "definitions": [
+            {
+              "text": "Facultad de las personas para actuar según su propia voluntad",
+              "synonyms": ["independencia", "autonomía", "emancipación"],
+              "examples": [
+                {
+                  "text": "La libertad de expresión es un derecho humano.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "libertà",
+          "article": "la",
+          "stem": "libert",
+          "prefix": null,
+          "phonetics": "/liberˈta/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun with invariable plural form. Core value in Italian culture and law."
+          },
+          "definitions": [
+            {
+              "text": "Condizione di chi può agire senza impedimenti",
+              "synonyms": ["indipendenza", "autonomia"],
+              "examples": [
+                {
+                  "text": "La libertà personale è sacra.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1850,
+        "cumulativeFrequency": 245000,
+        "entryDate": "2024-02-20T16:30:00.000Z",
+        "relatedTerms": [
+          "Unabhängigkeit",
+          "Selbstbestimmung",
+          "Autonomie",
+          "Demokratie",
+          "Recht"
+        ],
+        "source": "German Political Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Wasser",
+        "language": "de",
+        "article": "das",
+        "stem": "wasser",
+        "prefix": null,
+        "phonetics": "/ˈvasɐ/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Neuter noun. Essential element, used in many compound words. Plural: Wasser or Wässer (for different types)."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_wasser_01",
+          "text": "A transparent, tasteless, odorless liquid that forms rivers, lakes, and seas",
+          "synonyms": ["H2O", "Flüssigkeit"],
+          "examples": [
+            {
+              "text": "Ich trinke jeden Tag zwei Liter Wasser.",
+              "source": {
+                "title": "Health and Nutrition",
+                "publication": "Gesundheit Magazin",
+                "date": "2024-03-22T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Das Wasser im See ist sehr klar.",
+              "source": {
+                "title": "Nature Photography",
+                "publication": "Natur Pur",
+                "date": "2024-05-18T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "water",
+          "article": null,
+          "stem": "water",
+          "prefix": null,
+          "phonetics": "/ˈwɔːtər/",
+          "languageSpecific": {
+            "usageNotes": "Essential noun. Can be countable when referring to types of water or servings."
+          },
+          "definitions": [
+            {
+              "text": "A colorless, transparent, odorless liquid",
+              "synonyms": ["H2O", "aqua"],
+              "examples": [
+                {
+                  "text": "I drink eight glasses of water daily.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "agua",
+          "article": "el",
+          "stem": "agu",
+          "prefix": null,
+          "phonetics": "/ˈaɣwa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun but takes masculine article 'el' when stressed. El agua fría, las aguas."
+          },
+          "definitions": [
+            {
+              "text": "Líquido transparente, inodoro e insípido",
+              "synonyms": ["H2O", "líquido vital"],
+              "examples": [
+                {
+                  "text": "Necesito beber más agua.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "acqua",
+          "article": "l'",
+          "stem": "acqu",
+          "prefix": null,
+          "phonetics": "/ˈakkwa/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Very common in daily conversation and essential for life."
+          },
+          "definitions": [
+            {
+              "text": "Liquido trasparente, inodore e insapore",
+              "synonyms": ["H2O"],
+              "examples": [
+                {
+                  "text": "Bevo molta acqua ogni giorno.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3200,
+        "cumulativeFrequency": 425000,
+        "entryDate": "2024-01-08T08:15:00.000Z",
+        "relatedTerms": ["Flüssigkeit", "See", "Meer", "Regen", "Trinken"],
+        "source": "German Basic Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "schnell",
+        "language": "de",
+        "article": null,
+        "stem": "schnell",
+        "prefix": null,
+        "phonetics": "/ʃnɛl/",
+        "wordType": "ADJECTIVE",
+        "languageSpecific": {
+          "usageNotes": "Common adjective and adverb. Comparative: schneller, Superlative: am schnellsten."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_schnell_01",
+          "text": "Moving or capable of moving at high speed",
+          "synonyms": ["rasch", "flink", "zügig", "geschwind"],
+          "examples": [
+            {
+              "text": "Der Zug ist sehr schnell.",
+              "source": {
+                "title": "Transportation Guide",
+                "publication": "Reise & Verkehr",
+                "date": "2024-04-05T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie läuft schneller als ich.",
+              "source": null
+            },
+            {
+              "text": "Kannst du bitte schnell kommen?",
+              "source": {
+                "title": "Everyday German",
+                "publication": "Language Learning",
+                "date": "2024-02-12T00:00:00.000Z"
+              }
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "fast",
+          "article": null,
+          "stem": "fast",
+          "prefix": null,
+          "phonetics": "/fæst/",
+          "languageSpecific": {
+            "usageNotes": "Adjective and adverb with irregular comparison: fast, faster, fastest."
+          },
+          "definitions": [
+            {
+              "text": "Moving or capable of moving at high speed",
+              "synonyms": ["quick", "rapid", "swift", "speedy"],
+              "examples": [
+                {
+                  "text": "That's a fast car!",
+                  "source": null
+                },
+                {
+                  "text": "Please come here fast.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "rápido",
+          "article": null,
+          "stem": "rápi",
+          "prefix": null,
+          "phonetics": "/ˈrapido/",
+          "languageSpecific": {
+            "usageNotes": "Adjective that agrees in gender and number. Rápido/rápida/rápidos/rápidas."
+          },
+          "definitions": [
+            {
+              "text": "Que se mueve a gran velocidad",
+              "synonyms": ["veloz", "ligero", "pronto"],
+              "examples": [
+                {
+                  "text": "Ese coche es muy rápido.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "veloce",
+          "article": null,
+          "stem": "veloc",
+          "prefix": null,
+          "phonetics": "/veˈlotʃe/",
+          "languageSpecific": {
+            "usageNotes": "Adjective with regular forms. Can be used as both adjective and adverb."
+          },
+          "definitions": [
+            {
+              "text": "Che si muove con grande rapidità",
+              "synonyms": ["rapido", "svelto", "celere"],
+              "examples": [
+                {
+                  "text": "Quella macchina è molto veloce.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2850,
+        "cumulativeFrequency": 385000,
+        "entryDate": "2024-01-18T13:45:00.000Z",
+        "relatedTerms": ["langsam", "rasch", "eilig", "Geschwindigkeit"],
+        "source": "German Descriptive Adjectives 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Buch",
+        "language": "de",
+        "article": "das",
+        "stem": "buch",
+        "prefix": null,
+        "phonetics": "/buːx/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Neuter noun. Plural: Bücher. Forms many compounds like Lehrbuch, Tagebuch, Wörterbuch."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_buch_01",
+          "text": "A written or printed work consisting of pages bound together",
+          "synonyms": ["Werk", "Band", "Schrift"],
+          "examples": [
+            {
+              "text": "Ich lese gerade ein interessantes Buch.",
+              "source": {
+                "title": "Reading Habits Study",
+                "publication": "Literatur Heute",
+                "date": "2024-06-14T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Dieses Buch hat 500 Seiten.",
+              "source": {
+                "title": "Publishing Industry Report",
+                "publication": "Verlag Aktuell",
+                "date": "2024-03-30T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie hat mir ein Buch geschenkt.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "book",
+          "article": null,
+          "stem": "book",
+          "prefix": null,
+          "phonetics": "/bʊk/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Can also be used as a verb meaning to reserve or make arrangements."
+          },
+          "definitions": [
+            {
+              "text": "A written or printed work bound together",
+              "synonyms": ["volume", "tome", "publication"],
+              "examples": [
+                {
+                  "text": "I'm reading an interesting book.",
+                  "source": null
+                },
+                {
+                  "text": "She gave me a book for my birthday.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "libro",
+          "article": "el",
+          "stem": "libr",
+          "prefix": null,
+          "phonetics": "/ˈliβɾo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Very common in educational and literary contexts."
+          },
+          "definitions": [
+            {
+              "text": "Conjunto de hojas impresas y encuadernadas",
+              "synonyms": ["obra", "volumen", "tomo"],
+              "examples": [
+                {
+                  "text": "Este libro es muy interesante.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "libro",
+          "article": "il",
+          "stem": "libr",
+          "prefix": null,
+          "phonetics": "/ˈlibro/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Central to education and culture in Italian society."
+          },
+          "definitions": [
+            {
+              "text": "Opera stampata e rilegata",
+              "synonyms": ["volume", "opera", "testo"],
+              "examples": [
+                {
+                  "text": "Sto leggendo un libro molto bello.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1950,
+        "cumulativeFrequency": 295000,
+        "entryDate": "2024-02-05T10:20:00.000Z",
+        "relatedTerms": ["Literatur", "lesen", "Seite", "Roman", "Autor"],
+        "source": "German Literary Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Zeit",
+        "language": "de",
+        "article": "die",
+        "stem": "zeit",
+        "prefix": null,
+        "phonetics": "/tsaɪt/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Abstract concept, used in many expressions and compounds like Zeitpunkt, Zeitraum, Freizeit."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_zeit_01",
+          "text": "The indefinite continued progress of existence and events in the past, present, and future",
+          "synonyms": ["Dauer", "Zeitspanne", "Epoche"],
+          "examples": [
+            {
+              "text": "Ich habe keine Zeit für Hobbys.",
+              "source": {
+                "title": "Work-Life Balance",
+                "publication": "Leben & Karriere",
+                "date": "2024-05-25T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Zeit vergeht so schnell.",
+              "source": {
+                "title": "Philosophy Today",
+                "publication": "Denken & Sein",
+                "date": "2024-04-08T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Hast du Zeit für einen Kaffee?",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "time",
+          "article": null,
+          "stem": "time",
+          "prefix": null,
+          "phonetics": "/taɪm/",
+          "languageSpecific": {
+            "usageNotes": "Abstract noun with multiple meanings. Can be countable or uncountable."
+          },
+          "definitions": [
+            {
+              "text": "The indefinite continued progress of existence",
+              "synonyms": ["period", "duration", "moment"],
+              "examples": [
+                {
+                  "text": "I don't have time for hobbies.",
+                  "source": null
+                },
+                {
+                  "text": "Time flies so fast.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "tiempo",
+          "article": "el",
+          "stem": "tiemp",
+          "prefix": null,
+          "phonetics": "/ˈtjempo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Also used for weather (tiempo). Very versatile in Spanish."
+          },
+          "definitions": [
+            {
+              "text": "Duración de las cosas sujetas a mudanza",
+              "synonyms": ["época", "periodo", "momento"],
+              "examples": [
+                {
+                  "text": "No tengo tiempo para ver televisión.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "tempo",
+          "article": "il",
+          "stem": "temp",
+          "prefix": null,
+          "phonetics": "/ˈtɛmpo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Also means weather. Central to many Italian expressions."
+          },
+          "definitions": [
+            {
+              "text": "Successione illimitata di istanti",
+              "synonyms": ["epoca", "periodo", "momento"],
+              "examples": [
+                {
+                  "text": "Non ho tempo per questo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 4500,
+        "cumulativeFrequency": 675000,
+        "entryDate": "2024-01-12T15:30:00.000Z",
+        "relatedTerms": ["Stunde", "Minute", "Uhr", "Moment", "Dauer"],
+        "source": "German Abstract Nouns 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Stadt",
+        "language": "de",
+        "article": "die",
+        "stem": "stadt",
+        "prefix": null,
+        "phonetics": "/ʃtat/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Plural: Städte. Common in geography and urban planning contexts."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_stadt_01",
+          "text": "A large town; an urban area with a dense population",
+          "synonyms": ["Großstadt", "Metropole", "Ortschaft"],
+          "examples": [
+            {
+              "text": "Berlin ist die Hauptstadt von Deutschland.",
+              "source": {
+                "title": "German Geography",
+                "publication": "Geografie Aktuell",
+                "date": "2024-02-18T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Ich wohne in einer kleinen Stadt.",
+              "source": {
+                "title": "Urban Living",
+                "publication": "Stadt Leben",
+                "date": "2024-05-10T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Stadt hat viele Sehenswürdigkeiten.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "city",
+          "article": null,
+          "stem": "cit",
+          "prefix": null,
+          "phonetics": "/ˈsɪti/",
+          "languageSpecific": {
+            "usageNotes": "Common noun referring to large urban settlements. Plural: cities."
+          },
+          "definitions": [
+            {
+              "text": "A large town with dense population",
+              "synonyms": ["metropolis", "town", "municipality"],
+              "examples": [
+                {
+                  "text": "New York is a big city.",
+                  "source": null
+                },
+                {
+                  "text": "I live in a small city.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "ciudad",
+          "article": "la",
+          "stem": "ciud",
+          "prefix": null,
+          "phonetics": "/sjuˈðað/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Distinguished from pueblo (town) by size and importance."
+          },
+          "definitions": [
+            {
+              "text": "Conjunto de edificios y calles con gran población",
+              "synonyms": ["urbe", "metrópolis", "capital"],
+              "examples": [
+                {
+                  "text": "Madrid es una ciudad muy grande.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "città",
+          "article": "la",
+          "stem": "citt",
+          "prefix": null,
+          "phonetics": "/tʃitˈta/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Invariable plural. Central to Italian culture and history."
+          },
+          "definitions": [
+            {
+              "text": "Centro abitato di notevole estensione",
+              "synonyms": ["metropoli", "urbe", "centro"],
+              "examples": [
+                {
+                  "text": "Roma è una città bellissima.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2200,
+        "cumulativeFrequency": 335000,
+        "entryDate": "2024-02-08T11:40:00.000Z",
+        "relatedTerms": ["Dorf", "Metropole", "Zentrum", "urban", "Stadtmitte"],
+        "source": "German Geographic Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "arbeiten",
+        "language": "de",
+        "article": null,
+        "stem": "arbeit",
+        "prefix": null,
+        "phonetics": "/ˈaʁbaɪtən/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Regular weak verb. Conjugates: arbeite, arbeitest, arbeitet. Past participle: gearbeitet."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_arbeiten_01",
+          "text": "To perform tasks or duties in exchange for payment or as a means of achieving something",
+          "synonyms": ["schaffen", "tätig sein", "wirken"],
+          "examples": [
+            {
+              "text": "Ich arbeite in einem Büro.",
+              "source": {
+                "title": "Career Guide",
+                "publication": "Beruf & Karriere",
+                "date": "2024-03-12T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie arbeitet als Lehrerin.",
+              "source": {
+                "title": "Professional Profiles",
+                "publication": "Arbeitswelt",
+                "date": "2024-04-22T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Wir arbeiten an einem neuen Projekt.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "work",
+          "article": null,
+          "stem": "work",
+          "prefix": null,
+          "phonetics": "/wɜːrk/",
+          "languageSpecific": {
+            "usageNotes": "Regular verb. Can be used as noun and verb. Very common in professional contexts."
+          },
+          "definitions": [
+            {
+              "text": "To be engaged in physical or mental activity",
+              "synonyms": ["labor", "toil", "function"],
+              "examples": [
+                {
+                  "text": "I work in an office.",
+                  "source": null
+                },
+                {
+                  "text": "She works as a teacher.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "trabajar",
+          "article": null,
+          "stem": "trabaj",
+          "prefix": null,
+          "phonetics": "/tɾaβaˈxar/",
+          "languageSpecific": {
+            "usageNotes": "Regular -ar verb. Essential in professional and economic contexts."
+          },
+          "definitions": [
+            {
+              "text": "Realizar una actividad física o intelectual",
+              "synonyms": ["laborar", "ocuparse", "desempeñar"],
+              "examples": [
+                {
+                  "text": "Trabajo en una empresa de tecnología.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "lavorare",
+          "article": null,
+          "stem": "lavor",
+          "prefix": null,
+          "phonetics": "/lavoˈrare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Fundamental verb in professional and daily contexts."
+          },
+          "definitions": [
+            {
+              "text": "Svolgere un'attività per guadagno",
+              "synonyms": ["operare", "faticare"],
+              "examples": [
+                {
+                  "text": "Lavoro in un ufficio.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 3500,
+        "cumulativeFrequency": 520000,
+        "entryDate": "2024-01-25T14:10:00.000Z",
+        "relatedTerms": ["Arbeit", "Beruf", "Job", "tätig", "beschäftigt"],
+        "source": "German Professional Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "groß",
+        "language": "de",
+        "article": null,
+        "stem": "groß",
+        "prefix": null,
+        "phonetics": "/ɡʁoːs/",
+        "wordType": "ADJECTIVE",
+        "languageSpecific": {
+          "usageNotes": "Common adjective. Comparative: größer, Superlative: am größten. Declension varies by case."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_gross_01",
+          "text": "Of considerable size, extent, or intensity",
+          "synonyms": ["riesig", "umfangreich", "beträchtlich", "bedeutend"],
+          "examples": [
+            {
+              "text": "Das ist ein großes Haus.",
+              "source": {
+                "title": "Real Estate Listings",
+                "publication": "Immobilien Welt",
+                "date": "2024-06-08T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie hat große Augen.",
+              "source": null
+            },
+            {
+              "text": "Das war eine große Überraschung.",
+              "source": {
+                "title": "Life Stories",
+                "publication": "Menschen & Geschichten",
+                "date": "2024-03-28T00:00:00.000Z"
+              }
+            }
+          ]
+        },
+        {
+          "definitionId": "def_gross_02",
+          "text": "Tall in stature",
+          "synonyms": ["hochgewachsen", "lang"],
+          "examples": [
+            {
+              "text": "Er ist sehr groß für sein Alter.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "big",
+          "article": null,
+          "stem": "big",
+          "prefix": null,
+          "phonetics": "/bɪɡ/",
+          "languageSpecific": {
+            "usageNotes": "Common adjective. Comparative: bigger, Superlative: biggest. Also 'large' or 'great'."
+          },
+          "definitions": [
+            {
+              "text": "Of considerable size or extent",
+              "synonyms": ["large", "great", "huge", "sizeable"],
+              "examples": [
+                {
+                  "text": "That's a big house.",
+                  "source": null
+                },
+                {
+                  "text": "She has big eyes.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "grande",
+          "article": null,
+          "stem": "grand",
+          "prefix": null,
+          "phonetics": "/ˈɡɾande/",
+          "languageSpecific": {
+            "usageNotes": "Adjective that shortens to 'gran' before singular nouns. Number agreement required."
+          },
+          "definitions": [
+            {
+              "text": "De tamaño superior al normal",
+              "synonyms": ["amplio", "extenso", "enorme"],
+              "examples": [
+                {
+                  "text": "Es una casa muy grande.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "grande",
+          "article": null,
+          "stem": "grand",
+          "prefix": null,
+          "phonetics": "/ˈɡrande/",
+          "languageSpecific": {
+            "usageNotes": "Adjective with regular forms. Can precede or follow the noun with slight meaning changes."
+          },
+          "definitions": [
+            {
+              "text": "Di dimensioni notevoli",
+              "synonyms": ["ampio", "vasto", "grosso"],
+              "examples": [
+                {
+                  "text": "È una casa molto grande.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 4200,
+        "cumulativeFrequency": 590000,
+        "entryDate": "2024-01-22T09:55:00.000Z",
+        "relatedTerms": ["klein", "riesig", "Größe", "bedeutend"],
+        "source": "German Size Descriptors 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Freund",
+        "language": "de",
+        "article": "der",
+        "stem": "freund",
+        "prefix": null,
+        "phonetics": "/fʁɔʏnt/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Masculine noun. Plural: Freunde. Feminine form: Freundin. Can mean friend or boyfriend depending on context."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_freund_01",
+          "text": "A person with whom one has a bond of mutual affection",
+          "synonyms": ["Kumpel", "Kamerad", "Gefährte"],
+          "examples": [
+            {
+              "text": "Er ist mein bester Freund.",
+              "source": {
+                "title": "Friendship Psychology",
+                "publication": "Sozialwissenschaft Journal",
+                "date": "2024-04-16T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Ich treffe mich heute mit einem Freund.",
+              "source": {
+                "title": "Social Activities",
+                "publication": "Leben & Leute",
+                "date": "2024-05-20T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Sie hat viele Freunde.",
+              "source": null
+            }
+          ]
+        },
+        {
+          "definitionId": "def_freund_02",
+          "text": "A male romantic partner",
+          "synonyms": ["Partner", "Lebensgefährte"],
+          "examples": [
+            {
+              "text": "Das ist ihr neuer Freund.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "friend",
+          "article": null,
+          "stem": "friend",
+          "prefix": null,
+          "phonetics": "/frɛnd/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Can also be used as a verb in social media context. Gender-neutral term."
+          },
+          "definitions": [
+            {
+              "text": "A person with whom one has a mutual bond of affection",
+              "synonyms": ["companion", "pal", "buddy", "mate"],
+              "examples": [
+                {
+                  "text": "He is my best friend.",
+                  "source": null
+                },
+                {
+                  "text": "I'm meeting a friend today.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "amigo",
+          "article": "el",
+          "stem": "amig",
+          "prefix": null,
+          "phonetics": "/aˈmiɣo/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Feminine: amiga. Central to Spanish social culture."
+          },
+          "definitions": [
+            {
+              "text": "Persona con quien se tiene amistad",
+              "synonyms": ["compañero", "camarada"],
+              "examples": [
+                {
+                  "text": "Él es mi mejor amigo.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "amico",
+          "article": "l'",
+          "stem": "amic",
+          "prefix": null,
+          "phonetics": "/aˈmiko/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Feminine: amica. Very important in Italian social relationships."
+          },
+          "definitions": [
+            {
+              "text": "Persona legata da affetto reciproco",
+              "synonyms": ["compagno", "camerata"],
+              "examples": [
+                {
+                  "text": "Lui è il mio migliore amico.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1650,
+        "cumulativeFrequency": 280000,
+        "entryDate": "2024-02-12T12:25:00.000Z",
+        "relatedTerms": ["Freundschaft", "Freundin", "befreundet", "Kamerad"],
+        "source": "German Social Vocabulary 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "essen",
+        "language": "de",
+        "article": null,
+        "stem": "ess",
+        "prefix": null,
+        "phonetics": "/ˈɛsən/",
+        "wordType": "VERB",
+        "languageSpecific": {
+          "usageNotes": "Strong verb. Conjugates irregularly: esse, isst, , gegessen. Basic human activity verb."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_essen_01",
+          "text": "To consume food by taking it into the mouth and swallowing",
+          "synonyms": ["speisen", "verzehren", "zu sich nehmen"],
+          "examples": [
+            {
+              "text": "Ich esse gern Pizza.",
+              "source": {
+                "title": "Food Preferences Survey",
+                "publication": "Ernährung & Gesundheit",
+                "date": "2024-05-03T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Wir essen um 18 Uhr zu Abend.",
+              "source": {
+                "title": "Family Routines",
+                "publication": "Familie & Leben",
+                "date": "2024-03-17T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Hast du schon gegessen?",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "eat",
+          "article": null,
+          "stem": "eat",
+          "prefix": null,
+          "phonetics": "/iːt/",
+          "languageSpecific": {
+            "usageNotes": "Irregular verb: eat, ate, eaten. Essential verb for describing consumption of food."
+          },
+          "definitions": [
+            {
+              "text": "To put food into the mouth and swallow it",
+              "synonyms": ["consume", "ingest", "devour"],
+              "examples": [
+                {
+                  "text": "I like to eat pizza.",
+                  "source": null
+                },
+                {
+                  "text": "Have you eaten yet?",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "comer",
+          "article": null,
+          "stem": "com",
+          "prefix": null,
+          "phonetics": "/koˈmer/",
+          "languageSpecific": {
+            "usageNotes": "Regular -er verb. Can also mean 'to have lunch' specifically in some contexts."
+          },
+          "definitions": [
+            {
+              "text": "Ingerir alimento",
+              "synonyms": ["alimentarse", "ingerir", "consumir"],
+              "examples": [
+                {
+                  "text": "Me gusta comer pizza.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "mangiare",
+          "article": null,
+          "stem": "mangi",
+          "prefix": null,
+          "phonetics": "/manˈdʒare/",
+          "languageSpecific": {
+            "usageNotes": "Regular -are verb. Central to Italian culture which places high value on food."
+          },
+          "definitions": [
+            {
+              "text": "Ingerire cibo",
+              "synonyms": ["cibarsi", "nutrirsi", "consumare"],
+              "examples": [
+                {
+                  "text": "Mi piace mangiare la pizza.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 2950,
+        "cumulativeFrequency": 445000,
+        "entryDate": "2024-01-28T10:35:00.000Z",
+        "relatedTerms": ["Essen", "trinken", "Mahlzeit", "Nahrung", "Appetit"],
+        "source": "German Basic Verbs 2024"
+      }
+    },
+    {
+      "baseWord": {
+        "text": "Sonne",
+        "language": "de",
+        "article": "die",
+        "stem": "sonn",
+        "prefix": null,
+        "phonetics": "/ˈzɔnə/",
+        "wordType": "NOUN",
+        "languageSpecific": {
+          "usageNotes": "Feminine noun. Astronomical body, also used metaphorically. Forms compounds like Sonnenschein, Sonnenenergie."
+        }
+      },
+      "definitions": [
+        {
+          "definitionId": "def_sonne_01",
+          "text": "The star around which Earth orbits; the source of light and heat for planets in the solar system",
+          "synonyms": ["Gestirn", "Sonnenstern"],
+          "examples": [
+            {
+              "text": "Die Sonne scheint heute hell.",
+              "source": {
+                "title": "Weather Report",
+                "publication": "Wetter Aktuell",
+                "date": "2024-06-25T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Im Sommer geht die Sonne später unter.",
+              "source": {
+                "title": "Astronomy Basics",
+                "publication": "Wissenschaft für Alle",
+                "date": "2024-04-11T00:00:00.000Z"
+              }
+            },
+            {
+              "text": "Die Sonne ist ein Stern.",
+              "source": null
+            }
+          ]
+        }
+      ],
+      "translations": [
+        {
+          "language": "en",
+          "text": "sun",
+          "article": null,
+          "stem": "sun",
+          "prefix": null,
+          "phonetics": "/sʌn/",
+          "languageSpecific": {
+            "usageNotes": "Common noun. Often capitalized when referring to Earth's sun specifically."
+          },
+          "definitions": [
+            {
+              "text": "The star at the center of the solar system",
+              "synonyms": ["star", "sol"],
+              "examples": [
+                {
+                  "text": "The sun is shining brightly today.",
+                  "source": null
+                },
+                {
+                  "text": "The sun rises in the east.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "sol",
+          "article": "el",
+          "stem": "sol",
+          "prefix": null,
+          "phonetics": "/sol/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Important in weather descriptions and astronomy."
+          },
+          "definitions": [
+            {
+              "text": "Estrella luminosa centro del sistema planetario",
+              "synonyms": ["astro rey", "estrella"],
+              "examples": [
+                {
+                  "text": "El sol brilla hoy.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "sole",
+          "article": "il",
+          "stem": "sol",
+          "prefix": null,
+          "phonetics": "/ˈsole/",
+          "languageSpecific": {
+            "usageNotes": "Masculine noun. Central to Italian culture and climate descriptions."
+          },
+          "definitions": [
+            {
+              "text": "Stella al centro del sistema solare",
+              "synonyms": ["astro", "stella"],
+              "examples": [
+                {
+                  "text": "Il sole splende oggi.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "counterWords": 1450,
+        "cumulativeFrequency": 215000,
+        "entryDate": "2024-02-25T13:50:00.000Z",
+        "relatedTerms": ["Mond", "Stern", "Himmel", "Licht", "scheinen"],
+        "source": "German Nature Vocabulary 2024"
+      }
+    }
+  ]
+}
