@@ -1,0 +1,47 @@
+[
+  {
+    "wordId": "w1",
+    "language": "it",
+    "text": "Casa",
+    "article": "la",
+    "stem": "cas",
+    "phonetics": "ˈkasa",
+    "definitions": [
+      {
+        "text": "Un edificio dove vive la gente",
+        "synonyms": ["casa", "abitazione"],
+        "examples": ["La casa di Maria è bellissima.", "Ho comprato una nuova casa."]
+      }
+    ]
+  },
+  {
+    "wordId": "w2",
+    "language": "it",
+    "text": "Auto",
+    "article": "l'",
+    "stem": "aut",
+    "phonetics": "ˈawto",
+    "definitions": [
+      {
+        "text": "Un veicolo a motore su ruote",
+        "synonyms": ["macchina", "veicolo"],
+        "examples": ["La mia auto è rossa.", "Lei guida una nuova auto."]
+      }
+    ]
+  },
+  {
+    "wordId": "w3",
+    "language": "it",
+    "text": "Libro",
+    "article": "il",
+    "stem": "libr",
+    "phonetics": "ˈlibro",
+    "definitions": [
+      {
+        "text": "Un insieme di pagine scritte rilegati insieme",
+        "synonyms": ["volume", "pubblicazione"],
+        "examples": ["Sto leggendo un libro.", "I libri sono sullo scaffale."]
+      }
+    ]
+  }
+]
