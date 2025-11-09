@@ -47,15 +47,15 @@ model Word {
 model BaseWord {
   id                 String            @id @default(auto()) @map("_id") @db.ObjectId
   text               String
+  language           Language
   article            String?
   stem               String?
   prefix             String?
   phonetics          String?
-  word               Word?
-  language           Language
   wordType           WordType?
   languageSpecific   LanguageSpecific? @relation(name: "BaseWordLanguageSpecific", fields: [languageSpecificId], references: [id])
   languageSpecificId String?           @db.ObjectId
+  word               Word?
   createdAt          DateTime          @default(now())
 }
 
