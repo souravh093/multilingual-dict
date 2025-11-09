@@ -280,7 +280,7 @@ GET /api/words/:id
 #### Search Words
 
 ```http
-GET /api/words/search?q=haus&lang=de
+GET /words/search?q=haus&lang=de
 ```
 
 **Query Parameters:**
@@ -291,7 +291,7 @@ GET /api/words/search?q=haus&lang=de
 #### Get Translations
 
 ```http
-GET /api/words/:id/translations?targetLang=en
+GET /words/:id/translations?targetLang=en
 ```
 
 **Query Parameters:**
