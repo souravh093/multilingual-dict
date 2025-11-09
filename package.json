@@ -13,7 +13,7 @@
     "migrate": "ts-node --transpile-only scripts/migrate.ts",
     "prisma:clean": "ts-node --transpile-only scripts/clean.ts --yes",
     "create-indexes": "ts-node --transpile-only scripts/create-indexes.ts",
-    "bench": "ts-node --transpile-only scripts/bench/queries.ts"
+    "bench": "ts-node --transpile-only bench/queries.ts"
   },
   "author": "",
   "license": "ISC",

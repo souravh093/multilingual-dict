@@ -1,21 +1,64 @@
-import { PrismaClient, Language } from "../generated/prisma/client";
+import { PrismaClient, Language, WordType } from "../generated/prisma/client";
 import * as fs from "fs";
 import * as path from "path";
 import dotenv from "dotenv";
-import { TWordData } from "../src/types";
 
 dotenv.config();
 const prisma = new PrismaClient();
 
+// Interface for the new data structure
+interface WordData {
+  wordId: string;
+  language: string;
+  text: string;
+  article: string | null;
+  stem: string | null;
+  phonetics: string | null;
+  wordType?: string;
+  definitions: Array<{
+    text: string;
+    synonyms: string[];
+    examples: string[];
+  }>;
+  metadata?: {
+    counterWords: number;
+    cumulativeFrequency: number;
+    entryDate: string;
+    relatedTerms: string[];
+    source: string;
+  };
+}
+
 // Helper to load JSON
-async function loadJsonData(fileName: string): Promise<TWordData[]> {
+async function loadJsonData(fileName: string): Promise<WordData[]> {
   const fullPath = path.join(__dirname, "../mock-data/db", fileName);
   const data = fs.readFileSync(fullPath, "utf-8");
-  return JSON.parse(data) as TWordData[];
+  return JSON.parse(data) as WordData[];
+}
+
+// Helper to convert language string to Language enum
+function getLanguageEnum(lang: string): Language {
+  const normalizedLang = lang.toLowerCase();
+  if (normalizedLang in Language) {
+    return Language[normalizedLang as keyof typeof Language];
+  }
+  throw new Error(`Invalid language: ${lang}`);
+}
+
+// Helper to convert wordType string to WordType enum
+function getWordTypeEnum(type?: string): WordType | undefined {
+  if (!type) return undefined;
+  const normalizedType = type.toUpperCase();
+  if (normalizedType in WordType) {
+    return WordType[normalizedType as keyof typeof WordType];
+  }
+  return WordType.OTHER;
 }
 
 async function migrate() {
   try {
+    console.log("🚀 Starting migration...");
+
     // Load all language datasets
     const [enData, deData, itData, esData] = await Promise.all([
       loadJsonData("en.json"),
@@ -27,9 +70,9 @@ async function migrate() {
     // Group words by `wordId`
     const allData = [...enData, ...deData, ...itData, ...esData];
     const wordGroups = Object.values(
-      allData.reduce((acc: Record<string, TWordData[]>, word) => {
+      allData.reduce((acc: Record<string, WordData[]>, word) => {
         if (!word.wordId) {
-          console.warn(`⚠️ Skipping word with missing wordId: ${word.text}`);
+          console.warn(`⚠️  Skipping word with missing wordId: ${word.text}`);
           return acc;
         }
         if (!acc[word.wordId]) acc[word.wordId] = [];
@@ -38,10 +81,12 @@ async function migrate() {
       }, {})
     );
 
-    console.log(`✅ Found ${wordGroups.length} word groups`);
+    console.log(`✅ Found ${wordGroups.length} unique word groups`);
+    console.log(`📊 Total entries: ${allData.length}\n`);
 
     // Iterate over word groups
-    for (const group of wordGroups) {
+    for (let i = 0; i < wordGroups.length; i++) {
+      const group = wordGroups[i];
       if (group.length === 0) continue;
 
       // Prefer English as the base word, otherwise take first
@@ -50,7 +95,14 @@ async function migrate() {
         (w) => w.language !== baseWordData.language
       );
 
-      // Create metadata if exists
+      console.log(
+        `[${i + 1}/${wordGroups.length}] Processing: ${baseWordData.wordId} - ${
+          baseWordData.text
+        } (${baseWordData.language})`
+      );
+      console.log(`   Translations found: ${translations.length}`);
+
+      // Create metadata if exists (only for base word with English data)
       let metadata;
       if (baseWordData.metadata) {
         metadata = await prisma.metadata.create({
@@ -64,9 +116,10 @@ async function migrate() {
             source: baseWordData.metadata.source || null,
           },
         });
+        console.log(`   ✓ Metadata created`);
       }
 
-      // Create Word entry using provided `wordId`.
+      // Create Word entry using provided `wordId`
       let word;
       try {
         word = await prisma.word.create({
@@ -75,12 +128,14 @@ async function migrate() {
             metadata: metadata ? { connect: { id: metadata.id } } : undefined,
           },
         });
+        console.log(`   ✓ Word entry created`);
       } catch (err: any) {
+        // Handle duplicate wordId
         if (err?.code === "P2002") {
-          word = await prisma.word.findUnique({
-            where: { wordId: baseWordData.wordId },
-          });
-          if (!word) throw err;
+          console.log(
+            `   ⚠️  Word with wordId ${baseWordData.wordId} already exists, skipping...`
+          );
+          continue;
         } else {
           throw err;
         }
@@ -93,10 +148,12 @@ async function migrate() {
           article: baseWordData.article || null,
           stem: baseWordData.stem || null,
           phonetics: baseWordData.phonetics || null,
-          language: baseWordData.language.toLowerCase() as Language,
+          wordType: getWordTypeEnum(baseWordData.wordType),
+          language: getLanguageEnum(baseWordData.language),
           word: { connect: { id: word.id } },
         },
       });
+      console.log(`   ✓ BaseWord created`);
 
       // Connect BaseWord back to Word
       await prisma.word.update({
@@ -114,6 +171,7 @@ async function migrate() {
           },
         });
 
+        // Create examples for each definition
         for (const example of def.examples) {
           await prisma.example.create({
             data: {
@@ -123,12 +181,15 @@ async function migrate() {
           });
         }
       }
+      console.log(
+        `   ✓ Definitions (${baseWordData.definitions.length}) and examples created`
+      );
 
       // Create Translations and their definitions
       for (const trans of translations) {
         const createdTranslation = await prisma.translation.create({
           data: {
-            language: trans.language.toLowerCase() as Language,
+            language: getLanguageEnum(trans.language),
             text: trans.text,
             article: trans.article || null,
             stem: trans.stem || null,
@@ -155,16 +216,19 @@ async function migrate() {
             });
           }
         }
+        console.log(
+          `   ✓ Translation (${trans.language}) with definitions created`
+        );
       }
 
-      console.log(
-        `✅ Migrated group: ${baseWordData.wordId} (${baseWordData.text})`
-      );
+      console.log(`   ✅ Completed: ${baseWordData.wordId}\n`);
     }
 
     console.log("🎉 Migration completed successfully!");
+    console.log(`📈 Total word groups migrated: ${wordGroups.length}`);
   } catch (error) {
     console.error("❌ Migration failed:", error);
+    throw error;
   } finally {
     await prisma.$disconnect();
   }

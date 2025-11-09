@@ -1,47 +1,241 @@
 [
   {
-    "wordId": "w1",
+    "wordId": "word_001",
     "language": "en",
-    "text": "House",
+    "text": "work",
     "article": null,
-    "stem": "house",
-    "phonetics": "haʊs",
+    "stem": "work",
+    "phonetics": "/wɜːrk/",
+    "wordType": "VERB",
     "definitions": [
       {
-        "text": "A building for human habitation",
-        "synonyms": ["home", "residence"],
-        "examples": ["The house is big.", "I bought a new house last year."]
+        "text": "To be engaged in physical or mental activity for a purpose or result",
+        "synonyms": ["labor", "toil", "function"],
+        "examples": ["I work in an office.", "She works as a teacher."]
       }
-    ]
+    ],
+    "metadata": {
+      "counterWords": 3500,
+      "cumulativeFrequency": 520000,
+      "entryDate": "2024-01-25T14:10:00.000Z",
+      "relatedTerms": ["labor", "job", "employment"],
+      "source": "English Professional Vocabulary 2024"
+    }
   },
   {
-    "wordId": "w2",
+    "wordId": "word_002",
     "language": "en",
-    "text": "Car",
+    "text": "big",
     "article": null,
-    "stem": "car",
-    "phonetics": "kɑːr",
+    "stem": "big",
+    "phonetics": "/bɪɡ/",
+    "wordType": "ADJECTIVE",
     "definitions": [
       {
-        "text": "A road vehicle with an engine",
-        "synonyms": ["automobile", "vehicle"],
-        "examples": ["My car is red.", "She drives a new car."]
+        "text": "Of considerable size or extent",
+        "synonyms": ["large", "great", "huge"],
+        "examples": ["That's a big house.", "He has big dreams."]
       }
-    ]
+    ],
+    "metadata": {
+      "counterWords": 4200,
+      "cumulativeFrequency": 590000,
+      "entryDate": "2024-01-22T09:55:00.000Z",
+      "relatedTerms": ["small", "large", "huge"],
+      "source": "English Size Descriptors 2024"
+    }
   },
   {
-    "wordId": "w3",
+    "wordId": "word_003",
     "language": "en",
-    "text": "Book",
+    "text": "friend",
     "article": null,
-    "stem": "book",
-    "phonetics": "bʊk",
+    "stem": "friend",
+    "phonetics": "/frɛnd/",
+    "wordType": "NOUN",
     "definitions": [
       {
-        "text": "A set of written pages bound together",
-        "synonyms": ["volume", "publication"],
-        "examples": ["I am reading a book.", "Books are on the shelf."]
+        "text": "A person with whom one has a mutual bond of affection",
+        "synonyms": ["companion", "pal", "buddy"],
+        "examples": ["He is my best friend.", "I'm meeting a friend today."]
       }
-    ]
+    ],
+    "metadata": {
+      "counterWords": 1650,
+      "cumulativeFrequency": 280000,
+      "entryDate": "2024-02-12T12:25:00.000Z",
+      "relatedTerms": ["companion", "buddy", "pal"],
+      "source": "English Social Vocabulary 2024"
+    }
+  },
+  {
+    "wordId": "word_004",
+    "language": "en",
+    "text": "eat",
+    "article": null,
+    "stem": "eat",
+    "phonetics": "/iːt/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "To put food into the mouth and swallow it",
+        "synonyms": ["consume", "ingest", "devour"],
+        "examples": ["I like to eat pizza.", "What did you eat for breakfast?"]
+      }
+    ],
+    "metadata": {
+      "counterWords": 2950,
+      "cumulativeFrequency": 445000,
+      "entryDate": "2024-01-28T10:35:00.000Z",
+      "relatedTerms": ["food", "consume", "meal"],
+      "source": "English Basic Verbs 2024"
+    }
+  },
+  {
+    "wordId": "word_005",
+    "language": "en",
+    "text": "sun",
+    "article": null,
+    "stem": "sun",
+    "phonetics": "/sʌn/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "The star around which the Earth orbits",
+        "synonyms": ["solar orb", "daystar"],
+        "examples": [
+          "The sun is shining brightly.",
+          "The sun rises in the east."
+        ]
+      }
+    ],
+    "metadata": {
+      "counterWords": 1450,
+      "cumulativeFrequency": 215000,
+      "entryDate": "2024-02-25T13:50:00.000Z",
+      "relatedTerms": ["moon", "star", "sky"],
+      "source": "English Nature Vocabulary 2024"
+    }
+  },
+  {
+    "wordId": "word_006",
+    "language": "en",
+    "text": "music",
+    "article": null,
+    "stem": "music",
+    "phonetics": "/ˈmjuːzɪk/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Vocal or instrumental sounds combined to produce beauty",
+        "synonyms": ["melody", "harmony", "tune"],
+        "examples": [
+          "I love listening to music.",
+          "She plays beautiful music on the piano."
+        ]
+      }
+    ],
+    "metadata": {
+      "counterWords": 1680,
+      "cumulativeFrequency": 265000,
+      "entryDate": "2024-03-05T14:20:00.000Z",
+      "relatedTerms": ["song", "melody", "concert"],
+      "source": "English Arts Vocabulary 2024"
+    }
+  },
+  {
+    "wordId": "word_007",
+    "language": "en",
+    "text": "door",
+    "article": null,
+    "stem": "door",
+    "phonetics": "/dɔːr/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "A hinged, sliding, or revolving barrier at the entrance to a building or room",
+        "synonyms": ["entrance", "doorway", "portal"],
+        "examples": ["Please close the door.", "She knocked on the door."]
+      }
+    ],
+    "metadata": {
+      "counterWords": 2350,
+      "cumulativeFrequency": 350000,
+      "entryDate": "2024-01-14T11:05:00.000Z",
+      "relatedTerms": ["entrance", "gate", "portal"],
+      "source": "English Architecture Vocabulary 2024"
+    }
+  },
+  {
+    "wordId": "word_008",
+    "language": "en",
+    "text": "learn",
+    "article": null,
+    "stem": "learn",
+    "phonetics": "/lɜːrn/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "To gain knowledge or skill by studying, practicing, or being taught",
+        "synonyms": ["study", "acquire", "master"],
+        "examples": ["I want to learn Spanish.", "Children learn quickly."]
+      }
+    ],
+    "metadata": {
+      "counterWords": 2750,
+      "cumulativeFrequency": 410000,
+      "entryDate": "2024-02-18T09:30:00.000Z",
+      "relatedTerms": ["study", "education", "knowledge"],
+      "source": "English Education Vocabulary 2024"
+    }
+  },
+  {
+    "wordId": "word_009",
+    "language": "en",
+    "text": "window",
+    "article": null,
+    "stem": "window",
+    "phonetics": "/ˈwɪndoʊ/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "An opening in a wall or vehicle that is fitted with glass to admit light or air",
+        "synonyms": ["pane", "opening"],
+        "examples": [
+          "Open the window, please.",
+          "The window overlooks the garden."
+        ]
+      }
+    ],
+    "metadata": {
+      "counterWords": 1890,
+      "cumulativeFrequency": 285000,
+      "entryDate": "2024-01-30T10:45:00.000Z",
+      "relatedTerms": ["door", "glass", "frame"],
+      "source": "English Building Vocabulary 2024"
+    }
+  },
+  {
+    "wordId": "word_010",
+    "language": "en",
+    "text": "love",
+    "article": null,
+    "stem": "love",
+    "phonetics": "/lʌv/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "An intense feeling of deep affection",
+        "synonyms": ["affection", "devotion", "passion"],
+        "examples": ["She fell in love with him.", "Love conquers all."]
+      }
+    ],
+    "metadata": {
+      "counterWords": 3100,
+      "cumulativeFrequency": 485000,
+      "entryDate": "2024-02-14T16:00:00.000Z",
+      "relatedTerms": ["affection", "emotion", "heart"],
+      "source": "English Emotional Vocabulary 2024"
+    }
   }
 ]

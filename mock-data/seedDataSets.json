@@ -99,6 +99,29 @@
               ]
             }
           ]
+        },
+        {
+          "language": "it",
+          "text": "casa",
+          "article": "la",
+          "stem": "cas",
+          "prefix": null,
+          "phonetics": "/ˈkaza/",
+          "languageSpecific": {
+            "usageNotes": "Feminine noun. Common in Italian daily life and one of the most used words."
+          },
+          "definitions": [
+            {
+              "text": "Edificio destinato ad abitazione",
+              "synonyms": ["abitazione", "dimora", "residenza"],
+              "examples": [
+                {
+                  "text": "Ho comprato una nuova casa.",
+                  "source": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "metadata": {
@@ -209,6 +232,29 @@
               "examples": [
                 {
                   "text": "Corro nel parco ogni giorno.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "es",
+          "text": "correr",
+          "article": null,
+          "stem": "corr",
+          "prefix": null,
+          "phonetics": "/koˈrer/",
+          "languageSpecific": {
+            "usageNotes": "Regular -er verb. Common in sports and daily activities."
+          },
+          "definitions": [
+            {
+              "text": "Moverse rápidamente con las piernas",
+              "synonyms": ["trotar", "apresurarse"],
+              "examples": [
+                {
+                  "text": "Corro todas las mañanas en el parque.",
                   "source": null
                 }
               ]
@@ -453,6 +499,29 @@
               "examples": [
                 {
                   "text": "Voy al cine con mi hermana.",
+                  "source": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "language": "it",
+          "text": "con",
+          "article": null,
+          "stem": "con",
+          "prefix": null,
+          "phonetics": "/kon/",
+          "languageSpecific": {
+            "usageNotes": "Common preposition used for accompaniment and means."
+          },
+          "definitions": [
+            {
+              "text": "In compagnia di",
+              "synonyms": ["insieme a", "assieme a"],
+              "examples": [
+                {
+                  "text": "Vado al cinema con mia sorella.",
                   "source": null
                 }
               ]

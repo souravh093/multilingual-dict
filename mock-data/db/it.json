@@ -1,46 +1,173 @@
 [
   {
-    "wordId": "w1",
+    "wordId": "word_001",
     "language": "it",
-    "text": "Casa",
-    "article": "la",
-    "stem": "cas",
-    "phonetics": "ˈkasa",
+    "text": "lavorare",
+    "article": null,
+    "stem": "lavor",
+    "phonetics": "/lavoˈrare/",
+    "wordType": "VERB",
     "definitions": [
       {
-        "text": "Un edificio dove vive la gente",
-        "synonyms": ["casa", "abitazione"],
-        "examples": ["La casa di Maria è bellissima.", "Ho comprato una nuova casa."]
+        "text": "Svolgere attività fisica o mentale per uno scopo",
+        "synonyms": ["operare", "faticare", "esercitare"],
+        "examples": ["Lavoro in un ufficio.", "Lei lavora come insegnante."]
       }
     ]
   },
   {
-    "wordId": "w2",
+    "wordId": "word_002",
     "language": "it",
-    "text": "Auto",
+    "text": "grande",
+    "article": null,
+    "stem": "grand",
+    "phonetics": "/ˈɡrande/",
+    "wordType": "ADJECTIVE",
+    "definitions": [
+      {
+        "text": "Di dimensioni o estensione considerevoli",
+        "synonyms": ["enorme", "ampio", "vasto"],
+        "examples": ["Quella è una grande casa.", "Lui ha grandi sogni."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_003",
+    "language": "it",
+    "text": "amico",
     "article": "l'",
-    "stem": "aut",
-    "phonetics": "ˈawto",
+    "stem": "amic",
+    "phonetics": "/aˈmiko/",
+    "wordType": "NOUN",
     "definitions": [
       {
-        "text": "Un veicolo a motore su ruote",
-        "synonyms": ["macchina", "veicolo"],
-        "examples": ["La mia auto è rossa.", "Lei guida una nuova auto."]
+        "text": "Una persona con cui si ha un legame di affetto reciproco",
+        "synonyms": ["compagno", "camerata", "collega"],
+        "examples": ["Lui è il mio migliore amico.", "Oggi incontro un amico."]
       }
     ]
   },
   {
-    "wordId": "w3",
+    "wordId": "word_004",
     "language": "it",
-    "text": "Libro",
-    "article": "il",
-    "stem": "libr",
-    "phonetics": "ˈlibro",
+    "text": "mangiare",
+    "article": null,
+    "stem": "mangi",
+    "phonetics": "/manˈdʒare/",
+    "wordType": "VERB",
     "definitions": [
       {
-        "text": "Un insieme di pagine scritte rilegati insieme",
-        "synonyms": ["volume", "pubblicazione"],
-        "examples": ["Sto leggendo un libro.", "I libri sono sullo scaffale."]
+        "text": "Introdurre cibo nella bocca e inghiottirlo",
+        "synonyms": ["consumare", "ingerire", "divorare"],
+        "examples": [
+          "Mi piace mangiare la pizza.",
+          "Cosa hai mangiato a colazione?"
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_005",
+    "language": "it",
+    "text": "sole",
+    "article": "il",
+    "stem": "sol",
+    "phonetics": "/ˈsole/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "La stella attorno alla quale orbita la Terra",
+        "synonyms": ["astro", "stella diurna"],
+        "examples": ["Il sole splende luminoso.", "Il sole sorge a est."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_006",
+    "language": "it",
+    "text": "musica",
+    "article": "la",
+    "stem": "music",
+    "phonetics": "/ˈmuzika/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Suoni vocali o strumentali combinati per produrre bellezza",
+        "synonyms": ["melodia", "armonia", "canzone"],
+        "examples": [
+          "Amo ascoltare la musica.",
+          "Lei suona musica bellissima al pianoforte."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_007",
+    "language": "it",
+    "text": "porta",
+    "article": "la",
+    "stem": "port",
+    "phonetics": "/ˈpɔrta/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Una barriera mobile all'ingresso di un edificio o stanza",
+        "synonyms": ["entrata", "portone", "ingresso"],
+        "examples": ["Per favore, chiudi la porta.", "Ha bussato alla porta."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_008",
+    "language": "it",
+    "text": "imparare",
+    "article": null,
+    "stem": "impar",
+    "phonetics": "/impaˈrare/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "Acquisire conoscenza o abilità studiando, praticando o essendo insegnato",
+        "synonyms": ["studiare", "apprendere", "acquisire"],
+        "examples": [
+          "Voglio imparare lo spagnolo.",
+          "I bambini imparano velocemente."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_009",
+    "language": "it",
+    "text": "finestra",
+    "article": "la",
+    "stem": "finestr",
+    "phonetics": "/fiˈnestra/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Un'apertura in un muro o veicolo dotata di vetro per far entrare luce o aria",
+        "synonyms": ["apertura", "vetro"],
+        "examples": [
+          "Apri la finestra, per favore.",
+          "La finestra dà sul giardino."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_010",
+    "language": "it",
+    "text": "amore",
+    "article": "l'",
+    "stem": "amor",
+    "phonetics": "/aˈmore/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Un sentimento intenso di affetto profondo",
+        "synonyms": ["affetto", "devozione", "passione"],
+        "examples": ["Lei si è innamorata di lui.", "L'amore conquista tutto."]
       }
     ]
   }
