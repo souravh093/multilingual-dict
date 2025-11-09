@@ -27,5 +27,24 @@ export async function handleRequest(
     return WordsController.getAllWords(req, res);
   }
 
+  // GET /words/search?q=haus&lang=de
+  if (method === "GET" && path === "/words/search") {
+    return WordsController.searchWords(req, res);
+  }
+
+  // GET /words/:id (e.g., /words/654a1b2c3d4e5f6g7h8i9j0k)
+  const wordByIdMatch = path.match(/^\/words\/([a-zA-Z0-9]+)$/);
+  if (method === "GET" && wordByIdMatch) {
+    return WordsController.getWordById(req, res, wordByIdMatch[1]);
+  }
+
+  // GET /words/:id/translations?targetLang=en
+  const translationsMatch = path.match(
+    /^\/words\/([a-zA-Z0-9]+)\/translations$/
+  );
+  if (method === "GET" && translationsMatch) {
+    return WordsController.getTranslations(req, res, translationsMatch[1]);
+  }
+
   return notFound(res, "Route not found");
 }
