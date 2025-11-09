@@ -1,46 +1,167 @@
 [
   {
-    "wordId": "w1",
+    "wordId": "word_001",
     "language": "es",
-    "text": "Casa",
+    "text": "trabajar",
+    "article": null,
+    "stem": "trabaj",
+    "phonetics": "/tɾaβaˈxar/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "Realizar una actividad física o intelectual para lograr un propósito",
+        "synonyms": ["laborar", "ocuparse", "desempeñar"],
+        "examples": ["Trabajo en una oficina.", "Ella trabaja como profesora."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_002",
+    "language": "es",
+    "text": "grande",
+    "article": null,
+    "stem": "grand",
+    "phonetics": "/ˈɡɾande/",
+    "wordType": "ADJECTIVE",
+    "definitions": [
+      {
+        "text": "De tamaño o extensión considerable",
+        "synonyms": ["enorme", "amplio", "vasto"],
+        "examples": ["Esa es una casa grande.", "Él tiene grandes sueños."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_003",
+    "language": "es",
+    "text": "amigo",
+    "article": "el",
+    "stem": "amig",
+    "phonetics": "/aˈmiɣo/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Persona con quien se tiene un vínculo de afecto mutuo",
+        "synonyms": ["compañero", "camarada", "colega"],
+        "examples": ["Él es mi mejor amigo.", "Hoy me encuentro con un amigo."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_004",
+    "language": "es",
+    "text": "comer",
+    "article": null,
+    "stem": "com",
+    "phonetics": "/koˈmer/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "Introducir alimento en la boca y tragarlo",
+        "synonyms": ["ingerir", "consumir", "devorar"],
+        "examples": ["Me gusta comer pizza.", "¿Qué comiste en el desayuno?"]
+      }
+    ]
+  },
+  {
+    "wordId": "word_005",
+    "language": "es",
+    "text": "sol",
+    "article": "el",
+    "stem": "sol",
+    "phonetics": "/sol/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "La estrella alrededor de la cual orbita la Tierra",
+        "synonyms": ["astro rey", "lucero"],
+        "examples": ["El sol brilla intensamente.", "El sol sale por el este."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_006",
+    "language": "es",
+    "text": "música",
     "article": "la",
-    "stem": "cas",
-    "phonetics": "ˈkasa",
+    "stem": "músic",
+    "phonetics": "/ˈmusika/",
+    "wordType": "NOUN",
     "definitions": [
       {
-        "text": "Un edificio donde vive la gente",
-        "synonyms": ["hogar", "residencia"],
-        "examples": ["La casa de Juan es muy grande.", "Compré una nueva casa."]
+        "text": "Sonidos vocales o instrumentales combinados para producir belleza",
+        "synonyms": ["melodía", "armonía", "tonada"],
+        "examples": [
+          "Me encanta escuchar música.",
+          "Ella toca música hermosa en el piano."
+        ]
       }
     ]
   },
   {
-    "wordId": "w2",
+    "wordId": "word_007",
     "language": "es",
-    "text": "Coche",
-    "article": "el",
-    "stem": "coch",
-    "phonetics": "ˈkotʃe",
+    "text": "puerta",
+    "article": "la",
+    "stem": "puert",
+    "phonetics": "/ˈpweɾta/",
+    "wordType": "NOUN",
     "definitions": [
       {
-        "text": "Un vehículo de motor sobre ruedas",
-        "synonyms": ["automóvil", "vehículo"],
-        "examples": ["Mi coche es rojo.", "Ella conduce un coche nuevo."]
+        "text": "Una barrera móvil en la entrada de un edificio o habitación",
+        "synonyms": ["entrada", "portal", "acceso"],
+        "examples": ["Por favor, cierra la puerta.", "Ella llamó a la puerta."]
       }
     ]
   },
   {
-    "wordId": "w3",
+    "wordId": "word_008",
     "language": "es",
-    "text": "Libro",
-    "article": "el",
-    "stem": "libr",
-    "phonetics": "ˈliβɾo",
+    "text": "aprender",
+    "article": null,
+    "stem": "aprend",
+    "phonetics": "/apɾenˈdeɾ/",
+    "wordType": "VERB",
     "definitions": [
       {
-        "text": "Conjunto de páginas escritas encuadernadas",
-        "synonyms": ["volumen", "publicación"],
-        "examples": ["Estoy leyendo un libro.", "Los libros están en la estantería."]
+        "text": "Adquirir conocimiento o habilidad mediante estudio, práctica o enseñanza",
+        "synonyms": ["estudiar", "adquirir", "asimilar"],
+        "examples": [
+          "Quiero aprender español.",
+          "Los niños aprenden rápidamente."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_009",
+    "language": "es",
+    "text": "ventana",
+    "article": "la",
+    "stem": "ventan",
+    "phonetics": "/benˈtana/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Una abertura en una pared o vehículo equipada con vidrio para admitir luz o aire",
+        "synonyms": ["cristal", "abertura"],
+        "examples": ["Abre la ventana, por favor.", "La ventana da al jardín."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_010",
+    "language": "es",
+    "text": "amor",
+    "article": "el",
+    "stem": "amor",
+    "phonetics": "/aˈmoɾ/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Un sentimiento intenso de afecto profundo",
+        "synonyms": ["cariño", "devoción", "pasión"],
+        "examples": ["Ella se enamoró de él.", "El amor todo lo puede."]
       }
     ]
   }

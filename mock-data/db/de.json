@@ -1,46 +1,173 @@
 [
   {
-    "wordId": "w1",
+    "wordId": "word_001",
     "language": "de",
-    "text": "Haus",
-    "article": "das",
-    "stem": "Haus",
-    "phonetics": "haʊs",
+    "text": "arbeiten",
+    "article": null,
+    "stem": "arbeit",
+    "phonetics": "/ˈaʁbaɪtən/",
+    "wordType": "VERB",
     "definitions": [
       {
-        "text": "Ein Gebäude, in dem Menschen wohnen",
-        "synonyms": ["Heim", "Wohnung"],
-        "examples": ["Das Haus am See ist alt.", "Ich habe ein neues Haus gekauft."]
+        "text": "Tätigkeiten oder Aufgaben ausführen gegen Bezahlung oder als Mittel zur Erreichung eines Ziels",
+        "synonyms": ["schaffen", "tätig sein", "wirken"],
+        "examples": ["Ich arbeite in einem Büro.", "Sie arbeitet als Lehrerin."]
       }
     ]
   },
   {
-    "wordId": "w2",
+    "wordId": "word_002",
     "language": "de",
-    "text": "Auto",
-    "article": "das",
-    "stem": "Aut",
-    "phonetics": "ˈaʊto",
+    "text": "groß",
+    "article": null,
+    "stem": "groß",
+    "phonetics": "/ɡʁoːs/",
+    "wordType": "ADJECTIVE",
     "definitions": [
       {
-        "text": "Ein motorisiertes Fahrzeug auf Rädern",
-        "synonyms": ["Wagen", "Fahrzeug"],
-        "examples": ["Mein Auto ist rot.", "Sie fährt ein neues Auto."]
+        "text": "Von beträchtlicher Größe oder Ausdehnung",
+        "synonyms": ["riesig", "umfangreich", "bedeutend"],
+        "examples": ["Das ist ein großes Haus.", "Er hat große Träume."]
       }
     ]
   },
   {
-    "wordId": "w3",
+    "wordId": "word_003",
     "language": "de",
-    "text": "Buch",
-    "article": "das",
-    "stem": "Buch",
-    "phonetics": "buːx",
+    "text": "Freund",
+    "article": "der",
+    "stem": "freund",
+    "phonetics": "/fʁɔʏnt/",
+    "wordType": "NOUN",
     "definitions": [
       {
-        "text": "Eine Sammlung von geschriebenen Seiten zusammengebunden",
-        "synonyms": ["Band", "Publikation"],
-        "examples": ["Ich lese ein Buch.", "Die Bücher stehen im Regal."]
+        "text": "Eine Person, mit der man ein Band gegenseitiger Zuneigung hat",
+        "synonyms": ["Kumpel", "Kamerad", "Gefährte"],
+        "examples": [
+          "Er ist mein bester Freund.",
+          "Ich treffe mich heute mit einem Freund."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_004",
+    "language": "de",
+    "text": "essen",
+    "article": null,
+    "stem": "ess",
+    "phonetics": "/ˈɛsən/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "Nahrung durch Aufnahme in den Mund und Schlucken zu sich nehmen",
+        "synonyms": ["speisen", "verzehren", "zu sich nehmen"],
+        "examples": [
+          "Ich esse gern Pizza.",
+          "Was hast du zum Frühstück gegessen?"
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_005",
+    "language": "de",
+    "text": "Sonne",
+    "article": "die",
+    "stem": "sonn",
+    "phonetics": "/ˈzɔnə/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Der Stern, um den die Erde kreist",
+        "synonyms": ["Sonnenstern", "Tagesgestirn"],
+        "examples": ["Die Sonne scheint hell.", "Die Sonne geht im Osten auf."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_006",
+    "language": "de",
+    "text": "Musik",
+    "article": "die",
+    "stem": "musik",
+    "phonetics": "/muˈziːk/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Vokal- oder Instrumentalklänge, die kombiniert werden, um Schönheit zu erzeugen",
+        "synonyms": ["Melodie", "Harmonie", "Klang"],
+        "examples": [
+          "Ich höre gerne Musik.",
+          "Sie spielt wunderschöne Musik auf dem Klavier."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_007",
+    "language": "de",
+    "text": "Tür",
+    "article": "die",
+    "stem": "tür",
+    "phonetics": "/tyːɐ̯/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Eine bewegliche Barriere am Eingang eines Gebäudes oder Raumes",
+        "synonyms": ["Eingang", "Pforte", "Tor"],
+        "examples": ["Bitte schließe die Tür.", "Sie klopfte an die Tür."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_008",
+    "language": "de",
+    "text": "lernen",
+    "article": null,
+    "stem": "lern",
+    "phonetics": "/ˈlɛʁnən/",
+    "wordType": "VERB",
+    "definitions": [
+      {
+        "text": "Wissen oder Fähigkeiten durch Studium, Übung oder Unterricht erwerben",
+        "synonyms": ["studieren", "erlernen", "aneignen"],
+        "examples": ["Ich möchte Spanisch lernen.", "Kinder lernen schnell."]
+      }
+    ]
+  },
+  {
+    "wordId": "word_009",
+    "language": "de",
+    "text": "Fenster",
+    "article": "das",
+    "stem": "fenster",
+    "phonetics": "/ˈfɛnstɐ/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Eine Öffnung in einer Wand oder einem Fahrzeug mit Glas, um Licht oder Luft einzulassen",
+        "synonyms": ["Scheibe", "Öffnung"],
+        "examples": [
+          "Öffne bitte das Fenster.",
+          "Das Fenster blickt auf den Garten."
+        ]
+      }
+    ]
+  },
+  {
+    "wordId": "word_010",
+    "language": "de",
+    "text": "Liebe",
+    "article": "die",
+    "stem": "lieb",
+    "phonetics": "/ˈliːbə/",
+    "wordType": "NOUN",
+    "definitions": [
+      {
+        "text": "Ein intensives Gefühl tiefer Zuneigung",
+        "synonyms": ["Zuneigung", "Hingabe", "Leidenschaft"],
+        "examples": ["Sie verliebte sich in ihn.", "Liebe überwindet alles."]
       }
     ]
   }

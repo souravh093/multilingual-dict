@@ -78,18 +78,6 @@ async function main() {
 
     console.log(`📊 Found ${seedData.words.length} words to seed`);
 
-    // Clear existing data (optional - uncomment if you want to clear before seeding)
-    // console.log('🗑️  Clearing existing data...');
-    // await prisma.example.deleteMany();
-    // await prisma.translationDefinition.deleteMany();
-    // await prisma.translation.deleteMany();
-    // await prisma.definition.deleteMany();
-    // await prisma.word.deleteMany();
-    // await prisma.baseWord.deleteMany();
-    // await prisma.languageSpecific.deleteMany();
-    // await prisma.exampleSource.deleteMany();
-    // await prisma.metadata.deleteMany();
-
     let wordCount = 0;
 
     // Process each word
