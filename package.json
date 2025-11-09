@@ -10,15 +10,17 @@
     "prisma:generate": "npx prisma generate",
     "prisma:push": "npx prisma db push",
     "seed": "ts-node --transpile-only scripts/seed.ts",
-    "migrate": "ts-node --transpile-only src/scripts/migrate.ts",
+    "migrate": "ts-node --transpile-only scripts/migrate.ts",
+    "prisma:clean": "ts-node --transpile-only scripts/clean.ts --yes",
     "create-indexes": "ts-node --transpile-only scripts/create-indexes.ts",
-    "bench": "ts-node --transpile-only bench/queries.ts"
+    "bench": "ts-node --transpile-only scripts/bench/queries.ts"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^24.10.0",
     "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.3"
   },
   "dependencies": {
