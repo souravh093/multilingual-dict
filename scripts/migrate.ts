@@ -50,17 +50,32 @@ async function migrate() {
         (w) => w.language !== baseWordData.language
       );
 
+      // Create metadata if exists
+      let metadata;
+      if (baseWordData.metadata) {
+        metadata = await prisma.metadata.create({
+          data: {
+            counterWords: baseWordData.metadata.counterWords,
+            cumulativeFrequency: baseWordData.metadata.cumulativeFrequency,
+            entryDate: baseWordData.metadata.entryDate
+              ? new Date(baseWordData.metadata.entryDate)
+              : undefined,
+            relatedTerms: baseWordData.metadata.relatedTerms || [],
+            source: baseWordData.metadata.source || null,
+          },
+        });
+      }
+
       // Create Word entry using provided `wordId`.
-      // If it already exists (script re-run), fetch the existing record.
       let word;
       try {
         word = await prisma.word.create({
           data: {
             wordId: baseWordData.wordId,
+            metadata: metadata ? { connect: { id: metadata.id } } : undefined,
           },
         });
       } catch (err: any) {
-        // Handle unique-constraint (P2002) when re-running migration
         if (err?.code === "P2002") {
           word = await prisma.word.findUnique({
             where: { wordId: baseWordData.wordId },
@@ -99,7 +114,6 @@ async function migrate() {
           },
         });
 
-        // Create examples for the definition
         for (const example of def.examples) {
           await prisma.example.create({
             data: {
@@ -123,7 +137,6 @@ async function migrate() {
           },
         });
 
-        // Translation definitions
         for (const def of trans.definitions) {
           const createdTransDef = await prisma.translationDefinition.create({
             data: {
